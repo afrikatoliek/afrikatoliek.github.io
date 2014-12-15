@@ -22,7 +22,7 @@ It is the devil's desire to fill the minds of the children of God with fabricate
 
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, in union with all those who came before them and all who are to come after them. 
 
-The Kingdom of God is here now, *clearly visible* and universal. A *city set on a hill* for all to see, so that all may see. 
+The Kingdom of God is here now, **clearly visible** and universal. A **city set on a hill** for all to see - so that all may see. 
 
 _With Love_
 
