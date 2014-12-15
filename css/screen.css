@@ -65,7 +65,8 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 80%;
+  width: 42em;
+  margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
@@ -127,7 +128,8 @@ ul.posts {
 
   #post ul,
   #post ol {
-	padding: 4px;
+	margin: 0px;
+	margin-before: 0px;
 	font-family: 'PT Mono', monospace;
   }
 
@@ -143,6 +145,13 @@ ul.posts {
     }
 	
 #post p em {
+	font-family: 'Great Vibes', cursive;
+	font-size: 10%;
+	font-weight: normal;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+
+#post .letter {
 	font-family: 'Great Vibes', cursive;
 	font-size: 200%;
 	font-weight: normal;
