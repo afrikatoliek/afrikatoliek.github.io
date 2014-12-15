@@ -6,9 +6,9 @@ title: Imprisoned by Conspiracy Theories
 {{ page.title }}
 ================
 
-_(Grant me the grace to hear your voice, O Lord.)_
-
 <span class="letter">Dear Christian</span>
+
+_(Grant me the grace to hear your voice, O Lord.)_
 
 Are conspiracy theories more real for you than the Gospel? Has your superior intellect and research convinced you of a plain but **hidden reality** known only by open-minded people and honest seekers? Then be careful. Your pride has become your stumbling block.
 
@@ -24,9 +24,9 @@ Take this to heart: the Light of Christ continues to shine brightly in this worl
 
 The Kingdom of God is here now, clearly visible and universal. A **city set on a hill** for all to see - _so that all may see_. 
 
-<span class="letter">With Love</span>
-
 _(Grant me the grace to obey your voice, O Lord.)_
+
+<span class="letter">With Love</span>
 
 ---
 
