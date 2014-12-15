@@ -6,6 +6,9 @@ title: Imprisoned by Conspiracy Theories
 {{ page.title }}
 ================
 
+<!-- Bible Verse. http://biblia.com/plugins/BibleVerse -->
+<biblia:bibleverse theme="quotation" resource="esv" width="500" resourcePicker="false" reference="Mt5.14-15"><blockquote style="width:500px;">"You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/esv/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+
 <i class="fa fa-quote-left fa-4x pull-left"></i> <span class="letter">Dear Christian</span>
 
 _(Grant me the grace to hear your voice, O Lord.)_
@@ -22,7 +25,7 @@ It is the devil's desire to fill the minds of the children of God with fabricate
 
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
 
-The Kingdom of God is here now, clearly visible and universal. A **<cite class="bibleref" title="Mt 5:14-16">city set on a hill</cite>** for all to see - _so that all may see_. 
+The Kingdom of God is here now, clearly visible and universal. A **<cite class="bibleref" title="Mt 5:14-15">city set on a hill</cite>** for all to see - _so that all may see_. 
 
 _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right fa-4x pull-right"></i> 
 
@@ -59,3 +62,14 @@ Related Articles
 1. [How to Determine If A Controversial Statement Is Scientifically True](http://lifehacker.com/5919830/how-to-determine-if-a-controversial-statement-is-scientifically-true) <i class="fa fa-globe"></i>
 1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-graduation-cap"></i>
 1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-graduation-cap"></i>
+
+<script>
+  var refTagger = { settings: { bibleVersion: "DOUAYRHEIMS" } };
+  (function(d, t) {
+    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    g.src = "//api.reftagger.com/v2/RefTagger.js";
+    s.parentNode.insertBefore(g, s);
+  }(document, "script"));
+</script>
+<script src="//biblia.com/api/logos.biblia.js"></script>
+<script>logos.biblia.init();</script>
