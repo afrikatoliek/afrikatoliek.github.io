@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 name: f1l11d31
 description: f1l11d31
