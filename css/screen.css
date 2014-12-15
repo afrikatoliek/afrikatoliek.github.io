@@ -136,7 +136,7 @@ ul.posts {
   	font-family: 'PT Mono', monospace;
     background-color: #eef;
     font-size: 100%;
-    padding: 1px;
+    padding: 4px;
   }
 
     #post pre code {
@@ -144,16 +144,16 @@ ul.posts {
     }
 	
 #post p em {
-	font-family: 'Great Vibes', monospace;
+	font-family: 'Great Vibes', cursive;
 	font-size: 150%;
-	font-weight: bold;
+	font-weight: normal;
 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
 
 #post p strong {
-	font-family: 'Great Vibes', monospace;
-	font-size: 110%;
-	font-weight: bold;
+	font-family: 'PT Mono', monospace;
+	font-size: 100%;
+	background-color: #eef;
 }
 
   /* terminal */
