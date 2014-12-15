@@ -117,7 +117,7 @@ ul.posts {
 	font-family: 'PT Mono', monospace;
 	font-weight: bold;
 	font-size: 125%;
-	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+	margin-bottom: 4px;
   }
 
   #post pre {
@@ -128,8 +128,7 @@ ul.posts {
 
   #post ul,
   #post ol {
-	margin: 0px;
-	margin-before: 0px;
+	margin: 0px 30px;
 	font-family: 'PT Mono', monospace;
   }
 
@@ -145,8 +144,8 @@ ul.posts {
     }
 	
 #post p em {
-	font-family: 'Great Vibes', cursive;
-	font-size: 150%;
+	font-family: 'PT Mono', monospace;
+	font-size: 100%;
 	font-weight: normal;
 }
 
