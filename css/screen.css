@@ -88,11 +88,11 @@ ul.posts {
 }
 
 .site .heading a:hover {
-    color: #FF00FF;
+	color: #0000FF;  
 }
 
 .site .heading a:active {
-    color: #0000FF;
+	color: #FF00FF;
 }
 
 .site .subtitle {
