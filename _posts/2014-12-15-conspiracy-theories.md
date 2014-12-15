@@ -7,7 +7,7 @@ title: Imprisoned by Conspiracy Theories
 ================
 
 `(Grant me the grace to hear your voice, O Lord.)`
-
+---
 <span class="letter">Dear Christian</span>
 
 Are conspiracy theories more real for you than the Gospel? Has your superior intellect and research convinced you of a plain but hidden reality known only by open-minded people and honest seekers? Then be careful. Your pride has become your stumbling block.
@@ -27,10 +27,7 @@ The Kingdom of God is here now, clearly visible and universal. A *city set on a 
 <span class="letter">With Love</span>
 
 `(Grant me the grace to obey your voice, O Lord.)`
-
-LINKS
------
-
+---
 1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress"></i>
 2. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress"></i>
 3. [Skeptic Project](http://conspiracies.skepticproject.com)  <i class="fa fa-globe"></i>
