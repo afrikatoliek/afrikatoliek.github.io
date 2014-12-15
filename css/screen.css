@@ -128,7 +128,7 @@ ul.posts {
 
   #post ul,
   #post ol {
-    margin-left: 1.35em;
+	padding: 4px;
 	font-family: 'PT Mono', monospace;
   }
 
@@ -145,7 +145,7 @@ ul.posts {
 	
 #post p em {
 	font-family: 'Great Vibes', cursive;
-	font-size: 150%;
+	font-size: 175%;
 	font-weight: normal;
 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
@@ -153,7 +153,9 @@ ul.posts {
 #post p strong {
 	font-family: 'PT Mono', monospace;
 	font-size: 100%;
+	font-weight: normal;
 	background-color: #eef;
+	padding: 4px;
 }
 
   /* terminal */
