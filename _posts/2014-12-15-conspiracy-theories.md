@@ -6,7 +6,7 @@ title: Imprisoned by Conspiracy Theories
 {{ page.title }}
 ================
 
-<biblia:bibleverse theme="header" resource="rsvce" width="500" reference="Mt5.14-15"><blockquote style="width:500px;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+<biblia:bibleverse theme="header" resource="rsvce" width="100%" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 
 <i class="fa fa-quote-left fa-4x pull-left"></i> <span class="letter">Dear Christian</span>
 
@@ -30,8 +30,7 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 
 <span class="letter">With Love</span>
 
-<!-- Bible Verse. http://biblia.com/plugins/QuoteBuilder -->
-<biblia:quotebuilder width="500" resource="SUMMBBLNT" startPosition="Article=JN.3|ArticleLength=889|Context=nclusion:%20Since%20the%20|Offset=196|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z" endPosition="Article=JN.3|ArticleLength=889|Context=%20is—Jesus.%0aKey%20Word:|Offset=511|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z"><blockquote style="width:500px;">Since the natural man, however gifted, moral, or refined, is absolutely blind to spiritual truth and impotent to enter the kingdom, a new birth through Christ as the channel and the Holy Spirit as the power is an absolute necessity. Heaven is a prepared place for a prepared people. The only gateway to it is—Jesus. &mdash; <a target="_blank" href = "https://biblia.com/books/SUMMBBLNT/article/JN.3?offset=196">Brooks, Keith. Summarized Bible: Complete Summary of the New Testament. Bellingham, WA: Logos Bible Software, 2009.
+<biblia:quotebuilder width="100%" resource="SUMMBBLNT" startPosition="Article=JN.3|ArticleLength=889|Context=nclusion:%20Since%20the%20|Offset=196|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z" endPosition="Article=JN.3|ArticleLength=889|Context=%20is—Jesus.%0aKey%20Word:|Offset=511|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z"><blockquote style="width:100%;">Since the natural man, however gifted, moral, or refined, is absolutely blind to spiritual truth and impotent to enter the kingdom, a new birth through Christ as the channel and the Holy Spirit as the power is an absolute necessity. Heaven is a prepared place for a prepared people. The only gateway to it is—Jesus. &mdash; <a target="_blank" href = "https://biblia.com/books/SUMMBBLNT/article/JN.3?offset=196">Brooks, Keith. Summarized Bible: Complete Summary of the New Testament. Bellingham, WA: Logos Bible Software, 2009.
 </a></blockquote> </biblia:quotebuilder>
 
 ---
