@@ -72,9 +72,10 @@ ul.posts {
 
 .site .heading {
   font-family: 'PT Mono', monospace;
-  font-size: 50px;
+  font-size: 250%;
   font-weight: normal;
   color: #333737;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
 
 .site .heading a:link {
@@ -132,10 +133,10 @@ ul.posts {
   }
 
   #post code {
-    border: 1px solid #ddd;
+  	font-family: 'PT Mono', monospace;
     background-color: #eef;
-    font-size: 85%;
-    padding: 0 .2em;
+    font-size: 100%;
+    padding: 1px;
   }
 
     #post pre code {
@@ -144,8 +145,15 @@ ul.posts {
 	
 #post p em {
 	font-family: 'Great Vibes', monospace;
-	font-size: 110%;
+	font-size: 150%;
+	font-weight: bold;
 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+
+#post p strong {
+	font-family: 'Great Vibes', monospace;
+	font-size: 110%;
+	font-weight: bold;
 }
 
   /* terminal */
