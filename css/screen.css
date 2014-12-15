@@ -74,8 +74,24 @@ ul.posts {
   font-family: 'PT Mono', monospace;
   font-size: 50px;
   font-weight: normal;
-  text-decoration: none;
   color: #333737;
+}
+
+.site .heading a:link {
+	color: #333737;
+	text-decoration: none;
+}
+
+.site .heading a:visited {
+	color: #333737;
+}
+
+.site .heading a:hover {
+    color: #FF00FF;
+}
+
+.site .heading a:active {
+    color: #0000FF;
 }
 
 .site .subtitle {
@@ -91,14 +107,16 @@ ul.posts {
   #post h1 {
 	font-family: 'PT Mono', monospace;
 	font-weight: bold;
-	font-size: 150%;
+	font-size: 175%;
 	color: #333737;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
   }
   
-    #post h1 {
+#post h2 {
 	font-family: 'PT Mono', monospace;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 150%;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
   }
 
   #post pre {
@@ -123,6 +141,12 @@ ul.posts {
     #post pre code {
       border: none;
     }
+	
+#post p em {
+	font-family: 'Great Vibes', monospace;
+	font-size: 110%;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
 
   /* terminal */
 
