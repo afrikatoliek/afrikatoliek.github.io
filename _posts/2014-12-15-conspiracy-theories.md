@@ -6,7 +6,7 @@ title: Imprisoned by Conspiracy Theories
 {{ page.title }}
 ================
 
-<span class="letter">Dear Christian</span>
+<i class="fa fa-quote-left fa-4x pull-left"></i> <span class="letter">Dear Christian</span>
 
 _(Grant me the grace to hear your voice, O Lord.)_
 
@@ -24,7 +24,7 @@ Take this to heart: the Light of Christ continues to shine brightly in this worl
 
 The Kingdom of God is here now, clearly visible and universal. A **city set on a hill** for all to see - _so that all may see_. 
 
-_(Grant me the grace to obey your voice, O Lord.)_
+_(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right fa-4x pull-right"></i> 
 
 <span class="letter">With Love</span>
 
