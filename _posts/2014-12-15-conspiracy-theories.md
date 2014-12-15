@@ -28,8 +28,6 @@ _(Grant me the grace to obey your voice, O Lord.)_
 
 <span class="letter">With Love</span>
 
----
-
 Related Articles
 -----------------------
 
