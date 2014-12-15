@@ -32,8 +32,8 @@ The Kingdom of God is here now, clearly visible and universal. A *city set on a 
 
 `(Grant me the grace to obey your voice, O Lord.)`
 
-Reading Links
---------------------
+Related Articles
+-----------------------
 
 1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress"></i>
 1. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress"></i>
