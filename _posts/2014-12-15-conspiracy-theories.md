@@ -50,7 +50,7 @@ Related Articles
 1. [Illuminati, The New World Order & Paranoid Conspiracy Theorists (PCTs)](http://www.skepdic.com/illuminati.html)
 1. [It’s a Plot! No, It’s Not: A Debunking (Voodoo Histories)](http://www.nytimes.com/2010/02/16/books/16aaron.html?emc=eta1&_r=1&) <i class="fa fa-newspaper-o"></i>
 1. [THE PRESENT-DAY ILLUMINATI THEORY: The Real or Illusionary Threat of a Secret Worldwide Conspiracy](http://www.pfo.org/illumint.htm)
-1. {: .animated .bounce } [Christians & Conspiracy Theories: A CALL TO REPENTANCE](http://www.acts17-11.com/conspire.html) <i class="fa fa-star fa-spin"></i>
+1. [Christians & Conspiracy Theories: A CALL TO REPENTANCE](http://www.acts17-11.com/conspire.html) <i class="fa fa-star fa-spin animated bounce"></i>
 1. [Conspiracy Theories and Paranoia: Notes from a Mind-Control Conference](http://www.csicop.org/si/show/conspiracy_theories_and_paranoia_notes_from_a_mind-control_conference/)
 1. [Fantasies, Legends, and Heroes What You Know May Not Be So and How To Tell The Difference](http://web.archive.org/web/20050306112315/http://www.answers.org/Apologetics/Fantasy.html)
 1. [Examining Famous "Conspiracies"](http://www.debunker.com/conspiracy.html)
