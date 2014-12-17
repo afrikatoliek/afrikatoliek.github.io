@@ -186,7 +186,7 @@ ul.posts {
   }
 
 .repeater {
-  -webkit-animation-duration: 3s;
+  -webkit-animation-duration: 1s;
   -webkit-animation-delay: 2s;
   -webkit-animation-iteration-count: infinite;
 }
