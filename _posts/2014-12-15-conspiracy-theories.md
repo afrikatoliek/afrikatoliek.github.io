@@ -3,6 +3,7 @@ layout: post
 title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
 tweet: Exchange a false reality for the true reality.
+thumb: http://biblia.com/verseoftheday/lightbox/Mt5.14-15
 ---
 
 {{ page.title }}
@@ -40,13 +41,13 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 Related Articles
 -----------------------
 
-1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress fa-inverse"></i>
-1. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress fa-inverse"></i>
+1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress"></i>
+1. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress"></i>
 1. [Skeptic Project](http://conspiracies.skepticproject.com)
 1. [Thrive, Illuminati, NWO, etc.](http://thrivedebunked.wordpress.com/faq/)
-1. [Conspiracy: How the Paranoid Style Flourishes and Where It Comes From](http://www.amazon.com/Conspiracy-ebook/dp/B001HU8NW4/ref=tmm_kin_title_0) <i class="fa fa-book fa-inverse"></i>
+1. [Conspiracy: How the Paranoid Style Flourishes and Where It Comes From](http://www.amazon.com/Conspiracy-ebook/dp/B001HU8NW4/ref=tmm_kin_title_0) <i class="fa fa-book"></i>
 1. [Selling Fear Conspiracy Theories and End-Times Paranoia](http://www.amazon.com/Selling-Conspiracy-Theories-End-Times-Paranoia/dp/B000J0N8NC/ref=tmm_hrd_title_0) <i class="fa fa-book-o"></i>
-1. [John Todd (conspiracy theorist)](http://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) <i class="fa fa-wordpress fa-inverse"></i>
+1. [John Todd (conspiracy theorist)](http://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) <i class="fa fa-wordpress"></i>
 1. [Debunking the 9/11 'Truth' Movement](https://sites.google.com/site/wtc7lies/home)
 1. [Thrive Debunked (Fact Checks and Corrections)](http://thrivedebunked.wordpress.com/site-index/)
 1. [Illuminati, The New World Order & Paranoid Conspiracy Theorists (PCTs)](http://www.skepdic.com/illuminati.html)
@@ -61,11 +62,11 @@ Related Articles
 1. [No, Pope Not Actually Indicted For Child Trafficking, Crimes Against Humanity, Or Fishing Without A License](http://wonkette.com/543862/no-pope-not-actually-indicted-for-child-trafficking-crimes-against-humanity-or-fishing-without-a-license)
 1. [Hunting the Whore of Babylon](http://www.catholic.com/tracts/hunting-the-whore-of-babylon)
 1. [Have they discovered a new “lost Gospel” that says Jesus was married?](http://jimmyakin.com/2014/11/have-they-discovered-a-new-lost-gospel-that-says-jesus-was-married.html)
-1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book fa-inverse"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
+1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
 1. [Anti-Catholicism (Conspiracy Theories, Pseudohistory, Crank Ideas)](http://rationalwiki.org/wiki/Anti-Catholicism)
 1. [How to Determine If A Controversial Statement Is Scientifically True](http://lifehacker.com/5919830/how-to-determine-if-a-controversial-statement-is-scientifically-true)
-1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-university fa-inverse"></i>
-1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-university fa-inverse fg-black"></i>
+1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-university"></i>
+1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-university"></i>
 
 <script>
   var refTagger = { settings: { bibleVersion: "DOUAYRHEIMS" } };
