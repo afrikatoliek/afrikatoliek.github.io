@@ -190,3 +190,10 @@ ul.posts {
   -webkit-animation-delay: 3s; /*does not control the delay between repeats*/
   -webkit-animation-iteration-count: infinite;
 }
+
+.fg-color1 {
+  color: #eef;
+}
+.bg-color1 {
+  background-color: #eef;
+}

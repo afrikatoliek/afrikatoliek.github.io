@@ -40,19 +40,19 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 Related Articles
 -----------------------
 
-1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress"></i>
-1. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress"></i>
+1. [List of conspiracy theories](http://en.wikipedia.org/wiki/List_of_conspiracy_theories) <i class="fa fa-wordpress fg-color1"></i>
+1. [Conspiracy theory](http://en.wikipedia.org/wiki/Conspiracy_theory) <i class="fa fa-wordpress fg-color1"></i>
 1. [Skeptic Project](http://conspiracies.skepticproject.com)
 1. [Thrive, Illuminati, NWO, etc.](http://thrivedebunked.wordpress.com/faq/)
-1. [Conspiracy: How the Paranoid Style Flourishes and Where It Comes From](http://www.amazon.com/Conspiracy-ebook/dp/B001HU8NW4/ref=tmm_kin_title_0) <i class="fa fa-book"></i>
-1. [Selling Fear Conspiracy Theories and End-Times Paranoia](http://www.amazon.com/Selling-Conspiracy-Theories-End-Times-Paranoia/dp/B000J0N8NC/ref=tmm_hrd_title_0) <i class="fa fa-book"></i>
-1. [John Todd (conspiracy theorist)](http://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) <i class="fa fa-wordpress"></i>
+1. [Conspiracy: How the Paranoid Style Flourishes and Where It Comes From](http://www.amazon.com/Conspiracy-ebook/dp/B001HU8NW4/ref=tmm_kin_title_0) <i class="fa fa-book fg-color1"></i>
+1. [Selling Fear Conspiracy Theories and End-Times Paranoia](http://www.amazon.com/Selling-Conspiracy-Theories-End-Times-Paranoia/dp/B000J0N8NC/ref=tmm_hrd_title_0) <i class="fa fa-book fg-color1"></i>
+1. [John Todd (conspiracy theorist)](http://en.wikipedia.org/wiki/John_Todd_(conspiracy_theorist)) <i class="fa fa-wordpress fg-color1"></i>
 1. [Debunking the 9/11 'Truth' Movement](https://sites.google.com/site/wtc7lies/home)
 1. [Thrive Debunked (Fact Checks and Corrections)](http://thrivedebunked.wordpress.com/site-index/)
 1. [Illuminati, The New World Order & Paranoid Conspiracy Theorists (PCTs)](http://www.skepdic.com/illuminati.html)
-1. [It’s a Plot! No, It’s Not: A Debunking (Voodoo Histories)](http://www.nytimes.com/2010/02/16/books/16aaron.html?emc=eta1&_r=1&) <i class="fa fa-newspaper-o"></i>
+1. [It’s a Plot! No, It’s Not: A Debunking (Voodoo Histories)](http://www.nytimes.com/2010/02/16/books/16aaron.html?emc=eta1&_r=1&) <i class="fa fa-newspaper-o fg-color1"></i>
 1. [THE PRESENT-DAY ILLUMINATI THEORY: The Real or Illusionary Threat of a Secret Worldwide Conspiracy](http://www.pfo.org/illumint.htm)
-1. [Christians & Conspiracy Theories: A CALL TO REPENTANCE](http://www.acts17-11.com/conspire.html) <span class="animated tada repeater"><i class="fa fa-star fa-spin"></i></span>
+1. [Christians & Conspiracy Theories: A CALL TO REPENTANCE](http://www.acts17-11.com/conspire.html) <span class="animated tada repeater"><i class="fa fa-star fa-spin fg-color1"></i></span>
 1. [Conspiracy Theories and Paranoia: Notes from a Mind-Control Conference](http://www.csicop.org/si/show/conspiracy_theories_and_paranoia_notes_from_a_mind-control_conference/)
 1. [Fantasies, Legends, and Heroes What You Know May Not Be So and How To Tell The Difference](http://web.archive.org/web/20050306112315/http://www.answers.org/Apologetics/Fantasy.html)
 1. [Examining Famous "Conspiracies"](http://www.debunker.com/conspiracy.html)
@@ -61,11 +61,11 @@ Related Articles
 1. [No, Pope Not Actually Indicted For Child Trafficking, Crimes Against Humanity, Or Fishing Without A License](http://wonkette.com/543862/no-pope-not-actually-indicted-for-child-trafficking-crimes-against-humanity-or-fishing-without-a-license)
 1. [Hunting the Whore of Babylon](http://www.catholic.com/tracts/hunting-the-whore-of-babylon)
 1. [Have they discovered a new “lost Gospel” that says Jesus was married?](http://jimmyakin.com/2014/11/have-they-discovered-a-new-lost-gospel-that-says-jesus-was-married.html)
-1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book"></i><span class="animated tada repeater"><i class="fa fa-star fa-spin"></i></span> 
+1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book fg-color1"></i><span class="animated tada repeater"><i class="fa fa-star fa-spin fg-color1"></i></span> 
 1. [Anti-Catholicism (Conspiracy Theories, Pseudohistory, Crank Ideas)](http://rationalwiki.org/wiki/Anti-Catholicism)
 1. [How to Determine If A Controversial Statement Is Scientifically True](http://lifehacker.com/5919830/how-to-determine-if-a-controversial-statement-is-scientifically-true)
-1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-graduation-cap"></i>
-1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-graduation-cap"></i>
+1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-graduation-cap fg-color1"></i>
+1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-graduation-cap fg-color1"></i>
 
 <script>
   var refTagger = { settings: { bibleVersion: "DOUAYRHEIMS" } };
