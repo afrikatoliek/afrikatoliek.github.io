@@ -130,7 +130,7 @@ ul.posts {
   #post ul,
   #post ol {
 	margin: 0px 30px;
-	font-family: 'PT Mono', monospace;
+	/*font-family: 'PT Mono', monospace;*/
   }
 
   #post code {
