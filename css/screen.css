@@ -184,3 +184,9 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+.repeater {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: infinite;
+}
