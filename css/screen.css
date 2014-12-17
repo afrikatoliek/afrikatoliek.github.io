@@ -197,3 +197,9 @@ ul.posts {
 .bg-color1 {
   background-color: #eef;
 }
+.fg-black {
+  color: black;
+}
+.bg-black {
+  background-color: black;
+}
