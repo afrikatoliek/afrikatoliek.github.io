@@ -59,7 +59,7 @@ Related Articles
 1. [No, Pope Not Actually Indicted For Child Trafficking, Crimes Against Humanity, Or Fishing Without A License](http://wonkette.com/543862/no-pope-not-actually-indicted-for-child-trafficking-crimes-against-humanity-or-fishing-without-a-license)
 1. [Hunting the Whore of Babylon](http://www.catholic.com/tracts/hunting-the-whore-of-babylon)
 1. [Have they discovered a new “lost Gospel” that says Jesus was married?](http://jimmyakin.com/2014/11/have-they-discovered-a-new-lost-gospel-that-says-jesus-was-married.html)
-1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book"></i>
+1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book"></i><i class="fa fa-star fa-spin"></i> 
 1. [Anti-Catholicism (Conspiracy Theories, Pseudohistory, Crank Ideas)](http://rationalwiki.org/wiki/Anti-Catholicism)
 1. [How to Determine If A Controversial Statement Is Scientifically True](http://lifehacker.com/5919830/how-to-determine-if-a-controversial-statement-is-scientifically-true)
 1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-graduation-cap"></i>
