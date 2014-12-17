@@ -4,6 +4,7 @@ title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
 tweet: Exchange a false reality for the true reality.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace4e8bdc2b59.jpg
+image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H3dX4o22GM/w1278-h719-no/Ezekiel%2B40.4.jpg
 ---
 
 {{ page.title }}
