@@ -2,6 +2,7 @@
 layout: post
 title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
+tweet: Exchange a false reality for the true reality.
 ---
 
 {{ page.title }}
