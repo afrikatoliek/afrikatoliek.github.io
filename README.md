@@ -15,4 +15,5 @@ Thanks
 1. http://davidensinger.com/2013/04/adding-open-graph-tags-to-jekyll/
 1. http://jekyllrb.com/docs/frontmatter/
 1. http://jekyllrb.com/docs/variables/#page-variables
+1. http://stackoverflow.com/questions/25463865/in-jekyll-how-do-i-grab-a-posts-first-image
 
