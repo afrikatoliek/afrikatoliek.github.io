@@ -26,7 +26,7 @@ It is the devil's desire to fill the minds of the children of God with fabricate
 
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
 
-The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref" title="Mt 5:14-15">**city set on a hill**</cite> for all to see - _so that all may see_. 
+The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref animated fadeIn" title="Mt 5:14-15">**city set on a hill**</cite> for all to see - _so that all may see_. 
 
 _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right fa-4x pull-right"></i> 
 
