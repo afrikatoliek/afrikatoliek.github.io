@@ -3,7 +3,7 @@ layout: post
 title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
 tweet: Exchange a false reality for the true reality.
-thumb: http://biblia.com/verseoftheday/image/Mt5.14
+thumb: https://lh3.googleusercontent.com/-yubFOBTCulA/VJG6GnmrXdI/AAAAAAAAOC0/2_z_BpxTCu8/w1278-h719-no/2%2BChronicles%2B24.13.jpg
 ---
 
 {{ page.title }}
