@@ -65,7 +65,7 @@ Related Articles
 1. [Anti-Catholicism (Conspiracy Theories, Pseudohistory, Crank Ideas)](http://rationalwiki.org/wiki/Anti-Catholicism)
 1. [How to Determine If A Controversial Statement Is Scientifically True](http://lifehacker.com/5919830/how-to-determine-if-a-controversial-statement-is-scientifically-true)
 1. [The Da Vinci Code, Conspiracy Theory and Biblical Canon](http://www.catholiceducation.org/en/culture/literature/the-da-vinci-code-conspiracy-theory-and-biblical-canon.html) <i class="fa fa-university fa-inverse"></i>
-1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-university fa-inverse"></i>
+1. [The shadowy world of the Illuminati](http://www.catholiceducation.org/en/controversy/common-misconceptions/the-shadowy-world-of-the-illuminati.html) <i class="fa fa-university fa-inverse fg-black"></i>
 
 <script>
   var refTagger = { settings: { bibleVersion: "DOUAYRHEIMS" } };
