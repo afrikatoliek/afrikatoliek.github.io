@@ -185,7 +185,7 @@ ul.posts {
     margin-bottom: 1em;
   }
 
-.repeater {
+.anim-repeater {
   -webkit-animation-duration: 2s;
   -webkit-animation-delay: 3s; /*does not control the delay between repeats*/
   -webkit-animation-iteration-count: infinite;
