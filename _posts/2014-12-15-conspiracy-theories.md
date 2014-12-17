@@ -18,7 +18,7 @@ Are conspiracy theories more real for you than the Gospel? Has your superior int
 
 You may have been led astray by the deceiver onto a path that leads away from Christ. Come back and build your house on solid ground and not on the shifting sands of the desert. **Ask yourself** whether these judgments will help you in the day of tribulation, or whether they will hold in the generation of your grand children and benefit them in any way. The gospel of Christ, a participation in His cross, and humility will be your main weapons against the enemy. Come back to the fullness of truth.
 
-A belief in this hidden "reality" only appears mature and enlightened, but its substance is that of a rebellious infant. Spend the good years of your life by seeking the **true reality**{:.animated .tada .anim-repeater}, the Kingdom of God, instead of wasting precious time inside an illusion created by the minds of men. The true path has been made known in every age and is found by tracing the footsteps of those who have already made the journey and who have settled on the Rock. 
+A belief in this hidden "reality" only appears mature and enlightened, but its substance is that of a rebellious infant. Spend the good years of your life by seeking the **true reality**, the Kingdom of God, instead of wasting precious time inside an illusion created by the minds of men. The true path has been made known in every age and is found by tracing the footsteps of those who have already made the journey and who have settled on the Rock. 
 
 Examine the fruits of your beliefs and evaluate their **eternal worth**. Judge the so-called "truths" of these conspiracy theories by the Light of Christ and His Saints. Judge righteous judgment. Christ did not spend energy on believing in conspiracy theories, and neither did he base his most important decisions around them. Do you think conspiracy theories did not exist in His time?
 
@@ -26,7 +26,7 @@ It is the devil's desire to fill the minds of the children of God with fabricate
 
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
 
-The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref" title="Mt 5:14-15">**city set on a hill**{::}</cite>{::} for all to see - _so that all may see_. 
+The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref" title="Mt 5:14-15">**city set on a hill**</cite> for all to see - _so that all may see_. 
 
 _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right fa-4x pull-right"></i> 
 
