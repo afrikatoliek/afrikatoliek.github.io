@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Imprisoned by Conspiracy Theories
+permalink: imprisoned-by-conspiracy-theories
 ---
 
 {{ page.title }}
