@@ -229,3 +229,15 @@ div.my-inline-right iframe{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+.my-post-card {
+}
+
+.my-post-card img {
+  width: 200px;
+  height: 200px;
+}
+.my-post-card i {
+}
+.my-post-card a {
+}

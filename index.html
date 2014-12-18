@@ -5,6 +5,6 @@ tweet: A child of the Father, a brother of the Son.
 ---
 <ul class="posts">
 	{% for post in site.posts %}
-	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	<li> <div class="my-post-card pull-left"><a href="{{ post.url }}"><img src="{{ post.thumb }}"></img></a> <a href="{{ post.url }}">{{ post.title }}</a><br/><i>{{ post.tweet }}</i></div></li>
 	{% endfor %}
 </ul>
