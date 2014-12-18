@@ -16,9 +16,9 @@ image: https://s-media-cache-ak0.pinimg.com/736x/ee/48/3f/ee483f6233fc6b0b9b2766
 
 <span class="letter">Dear Drummer</span>
 
-A friend of mine organized a concert for his guitar students. It was great fun and the crowd (friends and family) also had a good time. The ability of the students was very impressive!
+A friend of mine organized a concert for his music students. A drummer was required for some of the songs, and this is where I come in. As the date of the concert drew closer, I realized that I needed a more effective approach for practising the songs. So with the help of my friend (and Google), I set off to notate the drums using Guitar Pro.
 
-These were the songs we played:
+The job of the "drumkit operator" was to play basic drums for the following songs:
 
 1. Forever in Blue Jeans
 1. Eye of the Tiger
@@ -31,7 +31,7 @@ These were the songs we played:
 1. Under the Boardwalk
 1. Wild World
 
-The gpx files (drumkit-only) can be found on [Dropbox](https://www.dropbox.com/sh/1tvrhlghu8t0t6u/AADbnhQn2sJs27s1ANv8qGdwa?dl=0) or Google Drive. They were arranged according to the requirements of the performance, so feel free to modify them.
+The fruits of this labour (gpx files for drumkit-only) can be found on [Dropbox](https://www.dropbox.com/sh/1tvrhlghu8t0t6u/AADbnhQn2sJs27s1ANv8qGdwa?dl=0) or Google Drive. The notation was arranged according to the requirements of the concert, so feel free to modify them.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B_o4ld7RKViicXFLeERjMnhMY1E#list" width="100%" height="500" frameborder="0"></iframe>
 

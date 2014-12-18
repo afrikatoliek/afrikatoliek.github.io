@@ -239,9 +239,12 @@ div.my-inline-right {
 }
 .my-post-thumb img {
   width: 178px;
+  max-height: 200px;
 }
 .my-post-info {
   margin: 0px;
+  height: 200px;
+  overflow: hidden;
 }
 
 .my-post-info h3 {
