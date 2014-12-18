@@ -121,6 +121,16 @@ ul.posts {
 	margin-top: 15px;
   }
 
+#post h3 {
+  font-family: 'PT Mono', monospace;
+  font-weight: bold;
+  font-size: 100%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  background-color: #eef;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  }
+
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
