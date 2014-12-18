@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Mono);
 @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
 
 /* Global Reset */
 
@@ -14,7 +15,8 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  background-image: url(images/subtlepatterns.com/symphony.png);
+  font-family: 'Roboto', sans-serif;
   *font-size: medium;
   text-align: center;
 }
