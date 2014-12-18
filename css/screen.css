@@ -232,13 +232,14 @@ div.my-inline-right {
 
 .my-post-card {
   display: inline;
+  font-size: medium;
 }
 .my-post-thumb {
   float: left;
   margin-right: 10px;
 }
 .my-post-thumb img {
-  width: 178px;
+  width: 200px;
   max-height: 200px;
 }
 .my-post-info {
@@ -250,7 +251,7 @@ div.my-inline-right {
 .my-post-info h3 {
   font-family: 'PT Mono', monospace;
   font-weight: bold;
-  font-size: 100%;
+  font-size: small;
   margin: 0px;
   vertical-align: top;
   background-color: #eef;
