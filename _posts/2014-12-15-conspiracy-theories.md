@@ -10,7 +10,7 @@ image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H
 {{ page.title }}
 ================
 
-<biblia:bibleverse theme="header" resource="rsvce" width="100%" height="344px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+<biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 
 <i class="fa fa-quote-left fa-4x pull-left"></i> <span class="letter">Dear Christian</span>
 
@@ -34,15 +34,12 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 
 <span class="letter">With Love</span>
 
-<biblia:quotebuilder width="100%" resource="SUMMBBLNT" startPosition="Article=JN.3|ArticleLength=889|Context=nclusion:%20Since%20the%20|Offset=196|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z" endPosition="Article=JN.3|ArticleLength=889|Context=%20is—Jesus.%0aKey%20Word:|Offset=511|OffsetInContext=10|Resource=LLS:SUMMBBLNT|Version=2009-10-26T19:56:40Z"><blockquote style="width:100%;">Since the natural man, however gifted, moral, or refined, is absolutely blind to spiritual truth and impotent to enter the kingdom, a new birth through Christ as the channel and the Holy Spirit as the power is an absolute necessity. Heaven is a prepared place for a prepared people. The only gateway to it is—Jesus. &mdash; <a target="_blank" href = "https://biblia.com/books/SUMMBBLNT/article/JN.3?offset=196">Brooks, Keith. Summarized Bible: Complete Summary of the New Testament. Bellingham, WA: Logos Bible Software, 2009.
-</a></blockquote> </biblia:quotebuilder>
-
 ---
 
 Related Links
 -------------
 
-### Starred <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span>
+### Starred <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin"></i></span>
 1. [Who Is the Beast of Revelation?](https://www.youtube.com/watch?v=4Naznbw0-6E) <i class="fa fa-youtube"></i> 
 1. [Who is the Beast of Relevation? (Part 2)](https://www.youtube.com/watch?v=nwkJBo3-HOA) <i class="fa fa-youtube"></i>
 1. [Father Barron on "Zeitgeist the Movie"](https://www.youtube.com/watch?feature=player_embedded&v=wZk9Lb22KrE) <i class="fa fa-youtube">
