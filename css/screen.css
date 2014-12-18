@@ -232,13 +232,16 @@ div.my-inline-right iframe{
 
 .my-post-card {
   height: 100px;
-  display: inline-block;
+  display: inline;
 }
 .my-post-thumb img {
   width: 178px;
   height: 100px;
+  display: inline;
 }
 .my-post-title {
+  display: inline;
 }
 .my-post-tweet {
+  display: inline;
 }
