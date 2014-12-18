@@ -232,6 +232,9 @@ div.my-inline-right iframe{
 
 .my-post-card {
   height: 100px;
+  display: inline-block;
+}
+.my-post-thumb {
   display: inline;
 }
 .my-post-thumb img {
