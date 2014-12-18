@@ -230,6 +230,21 @@ div.my-inline-right iframe{
     margin-bottom: 0px;
 }
 
+#posts h3 {
+  font-family: 'PT Mono', monospace;
+  font-weight: bold;
+  font-size: 100%;
+  margin-bottom: 0;
+  margin-top: 0;
+  vertical-align: top;
+  background-color: #eef;
+}
+
+#posts p {
+  margin: 0px;
+  vertical-align: top;
+}
+
 .my-post-card {
   display: inline;
 }
