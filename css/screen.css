@@ -50,21 +50,6 @@ table {
   font: 100%;
 }
 
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-  font-size: 120%;
-  font-family: "Roboto", sans-serif;
-}
-
-  ul.posts li {
-    line-height: 1.75em;
-  }
-
-  ul.posts span {
-    color: #aaa;
-  }
-
 .site {
   font-size: 150%;
   text-align: justify;
@@ -230,6 +215,21 @@ div.my-inline-right {
     margin-bottom: 0px;
 }
 
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 1em;
+  font-size: 120%;
+  font-family: "Roboto", sans-serif;
+}
+
+ul.posts li {
+  line-height: 1.0em;
+}
+
+ul.posts span {
+  color: #aaa;
+}
+
 .my-post-card {
   display: inline;
   font-size: medium;
@@ -240,11 +240,11 @@ div.my-inline-right {
 }
 .my-post-thumb img {
   width: 200px;
-  max-height: 200px;
+  max-height: 180px;
 }
 .my-post-info {
   margin: 0px;
-  height: 200px;
+  height: 180px;
   overflow: hidden;
 }
 
