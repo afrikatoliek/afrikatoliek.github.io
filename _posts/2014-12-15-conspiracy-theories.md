@@ -10,7 +10,9 @@ image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H
 {{ page.title }}
 ================
 
-<biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+<div class="my-votd">
+<biblia:bibleverse theme="header" resource="rsvce" width="100%" height="100%" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+</div>
 
 <i class="fa fa-quote-left fa-4x pull-left"></i> <span class="letter">Dear Christian</span>
 

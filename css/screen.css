@@ -51,6 +51,8 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  font-size: 150%;
+  font-family: "PT Mono", monospace;
 }
 
   ul.posts li {
@@ -59,7 +61,6 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: "PT Mono", monospace;
   }
 
 .site {
@@ -128,7 +129,6 @@ ul.posts {
   margin-bottom: 15px;
   margin-top: 15px;
   background-color: #eef;
-  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
   }
 
   #post pre {
@@ -212,4 +212,10 @@ ul.posts {
 }
 .bg-black {
   background-color: black;
+}
+
+.my-votd {
+  width: 512px;
+  height: 288px;
+  text-align: center;
 }
