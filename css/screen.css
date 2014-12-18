@@ -232,9 +232,11 @@ div.my-inline-right iframe{
 
 .my-post-card {
   height: 100px;
+  display: inline-block;
 }
-.my-post-thumb {
+.my-post-thumb img {
   width: 178px;
+  height: 100px;
 }
 .my-post-title {
 }
