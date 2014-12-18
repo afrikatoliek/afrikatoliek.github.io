@@ -29,7 +29,7 @@ Examine the fruits of your beliefs and evaluate their **eternal worth**. Judge t
 It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them **captivated** by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. These seekers then reject the simplicity of the Gospel to follow a path that leads to the destruction of their souls and the forsaking of everything that is true. This brings the devil great satisfaction.
 
 <div class="my-votd pull-right">
-<biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" showVotd="false" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+<biblia:bibleverse theme="no-header" resource="rsvce" width="512px" resourcePicker="false" showVotd="false" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 </div>
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
 
