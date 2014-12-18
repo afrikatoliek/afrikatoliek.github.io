@@ -10,7 +10,7 @@ image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H
 {{ page.title }}
 ================
 
-<div class="my-votd">
+<div class="pull-left">
 <biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 </div>
 
@@ -30,11 +30,14 @@ It is the devil's desire to fill the minds of the children of God with fabricate
 
 Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
 
+<div class="pull-right">
+<biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" showVotd="false" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+</div>
 The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref" title="Mt 5:14-15">**city set on a hill**</cite> for all to see - _so that all may see_. 
 
-_(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right fa-4x pull-right"></i> 
+_(Grant me the grace to obey your voice, O Lord.)_
 
-<span class="letter">With Love</span>
+<span class="letter">With Love</span> <i class="fa fa-quote-right fa-4x"></i> 
 
 ---
 
