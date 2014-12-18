@@ -215,6 +215,5 @@ ul.posts {
 }
 
 div.my-votd iframe{
-    display: block;
-    margin: 0 auto;
+    margin: 15px;
 }
