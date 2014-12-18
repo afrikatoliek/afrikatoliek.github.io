@@ -240,18 +240,18 @@ ul.posts span {
 }
 .my-post-thumb img {
   width: 200px;
-  max-height: 180px;
+  max-height: 130px;
 }
 .my-post-info {
   margin: 0px;
-  height: 180px;
+  height: 130px;
   overflow: hidden;
 }
 
 .my-post-info h3 {
   font-family: 'PT Mono', monospace;
   font-weight: bold;
-  font-size: small;
+  font-size: medium;
   margin: 0px;
   vertical-align: top;
   background-color: #eef;
@@ -260,4 +260,5 @@ ul.posts span {
 .my-post-info p {
   margin: 0px;
   vertical-align: top;
+  font-size: small;
 }
