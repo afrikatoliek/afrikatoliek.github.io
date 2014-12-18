@@ -42,9 +42,9 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 Related Articles
 -----------------------
 
-1. [Who Is the Beast of Revelation?](https://www.youtube.com/watch?v=4Naznbw0-6E) <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
-1. [Who is the Beast of Relevation? (Part 2)](https://www.youtube.com/watch?v=nwkJBo3-HOA) <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
-1. [Father Barron on "Zeitgeist the Movie"](https://www.youtube.com/watch?feature=player_embedded&v=wZk9Lb22KrE) <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
+1. [Who Is the Beast of Revelation?](https://www.youtube.com/watch?v=4Naznbw0-6E) <i class="fa fa-youtube"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
+1. [Who is the Beast of Relevation? (Part 2)](https://www.youtube.com/watch?v=nwkJBo3-HOA) <i class="fa fa-youtube"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
+1. [Father Barron on "Zeitgeist the Movie"](https://www.youtube.com/watch?feature=player_embedded&v=wZk9Lb22KrE) <i class="fa fa-youtube"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
 1. [The Whore of Babylon](http://www.catholic.com/tracts/the-whore-of-babylon) <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
 1. [Christians & Conspiracy Theories: A CALL TO REPENTANCE](http://www.acts17-11.com/conspire.html) <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span>
 1. [Seven Lies About Catholic History](http://www.amazon.com/Seven-About-Catholic-History-ebook/dp/B004Q3RN8O/ref=tmm_kin_title_0) <i class="fa fa-book"></i><span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span> 
