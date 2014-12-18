@@ -216,14 +216,14 @@ ul.posts {
   background-color: black;
 }
 
-div.my-inline-left iframe{
+div.my-inline-left {
     margin-left: 0px;
     margin-right: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-div.my-inline-right iframe{
+div.my-inline-right {
     margin-left: 20px;
     margin-right: 0px;
     margin-top: 0px;
