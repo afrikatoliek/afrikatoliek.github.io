@@ -39,8 +39,8 @@ _(Grant me the grace to obey your voice, O Lord.)_ <i class="fa fa-quote-right f
 
 ---
 
-Related Articles
-----------------
+Related Links
+-------------
 
 ### Starred <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin bg-color1 fg-black"></i></span>
 1. [Who Is the Beast of Revelation?](https://www.youtube.com/watch?v=4Naznbw0-6E) <i class="fa fa-youtube"></i> 
