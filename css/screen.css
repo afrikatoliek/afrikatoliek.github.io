@@ -251,7 +251,7 @@ ul.posts span {
 .my-post-info h3 {
   font-family: 'PT Mono', monospace;
   font-weight: bold;
-  font-size: medium;
+  font-size: large;
   margin: 0px;
   vertical-align: top;
   background-color: #eef;
@@ -260,5 +260,5 @@ ul.posts span {
 .my-post-info p {
   margin: 0px;
   vertical-align: top;
-  font-size: small;
+  font-size: medium;
 }
