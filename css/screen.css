@@ -53,8 +53,8 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
-  font-size: 150%;
-  font-family: "PT Mono", monospace;
+  font-size: medium;
+  font-family: "Roboto", sans-serif;
 }
 
   ul.posts li {

@@ -17,4 +17,4 @@ Thanks
 1. http://jekyllrb.com/docs/variables/#page-variables
 1. http://stackoverflow.com/questions/25463865/in-jekyll-how-do-i-grab-a-posts-first-image
 1. http://subtlepatterns.com/
-
+1. https://wiki.logos.com/Biblia_Verse_of_the_Day_images
