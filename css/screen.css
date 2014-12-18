@@ -214,6 +214,16 @@ ul.posts {
   background-color: black;
 }
 
-div.my-votd iframe{
-    margin: 20px;
+div.my-inline-left iframe{
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.my-inline-right iframe{
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
