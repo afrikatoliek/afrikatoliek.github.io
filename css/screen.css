@@ -236,6 +236,7 @@ div.my-inline-right iframe{
 }
 .my-post-thumb {
   display: inline;
+  height: 100px;
 }
 .my-post-thumb img {
   width: 178px;
