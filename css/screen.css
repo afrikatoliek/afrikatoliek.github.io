@@ -231,13 +231,12 @@ div.my-inline-right iframe{
 }
 
 .my-post-card {
+  height: 100px;
 }
-
-.my-post-card img {
-  width: 200px;
-  height: 200px;
+.my-post-thumb {
+  width: 178px;
 }
-.my-post-card i {
+.my-post-title {
 }
-.my-post-card a {
+.my-post-tweet {
 }
