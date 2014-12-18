@@ -201,6 +201,17 @@ table {
   background-color: black;
 }
 
+.static-link {
+}
+
+.static-link a:hover {
+  color: black;
+}
+
+.static-link a:visited {
+  color: black;
+}
+
 div.my-inline-left {
     margin-left: 0px;
     margin-right: 20px;
