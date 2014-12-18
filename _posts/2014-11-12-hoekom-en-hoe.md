@@ -27,7 +27,7 @@ Hierdie webjoernaal is moontlik gemaak te danke aan **GitHub Pages**. Ek sal dit
 
 Ek geniet dit ook om aanhalings uit die Bybel in my webjoernaal inskrywings te sit. Dit word moontlik gemaak deur **Biblia.com**, sowel as Logos.com se **RefTagger**. Die grafika op hierdie webjoernaal is meestal gevind op die internet en dan oorgeplaas na **Pinterest**, waarvandaan dit dan gebruik word.
 
-Google WebFonts word vir die **teks** gebruik, Font Awesome vir die icons <i class="fa fa-globe"></i> en Animate.css vir die **animasies**{:.animated .tada .anim-repeater}.
+Google WebFonts word vir die **teks** gebruik, Font Awesome vir die **icons <i class="fa fa-globe"></i>** en Animate.css vir die **animasies**{:.animated .tada .anim-repeater}.
 
 <span class="letter">Met Liefde</span>
 
