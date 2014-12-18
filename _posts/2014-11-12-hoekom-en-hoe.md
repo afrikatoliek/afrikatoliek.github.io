@@ -26,3 +26,6 @@ Die titel is in Latyns, 'n taal wat simbolies is vir die nasies, spesifiek so ge
 Hierdie webjoernaal is moontlik gemaak te danke aan GitHub Pages. Ek sal dit sterk aanbeveel vir enigiemand wat ook so ietsie wil doen. Indien dit te tegnies raak, dan sal ek Postach.io aanraai aangesien dit meer toeganklik en eenvoudig is a.g.v daardie platform se integrasie met Evernote en Dropbox. Ek geniet dit ook om aanhalings uit die Bybel in my webjoernaal inskrywings te sit. Dit word moontlik gemaak deur Biblia.com, sowel as Logos.com se RefTagger.
 
 <span class="letter">Met Liefde</span>
+
+<script src="//biblia.com/api/logos.biblia.js"></script>
+<script>logos.biblia.init();</script>
