@@ -201,15 +201,31 @@ table {
   background-color: black;
 }
 
+.fg-google-plus {
+  color: #dd4b39;
+}
+.fg-facebook {
+  color: #3b5998;
+}
+.fg-twitter {
+  color: #00aced;
+}
+.fg-pinterest {
+  color: #cb2027;
+}
+.fg-github {
+  color: #171515;
+}
+
 .static-link {
 }
 
 .static-link a:hover {
-  color: black;
+  color: inherit;
 }
 
 .static-link a:visited {
-  color: black;
+  color: inherit;
 }
 
 div.my-inline-left {
