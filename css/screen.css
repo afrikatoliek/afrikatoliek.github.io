@@ -231,25 +231,12 @@ div.my-inline-right iframe{
 }
 
 .my-post-card {
-  height: 100px;
-  display: inline-block;
-  vertical-align: top
+  display: inline;
 }
 .my-post-thumb {
-  height: 100px;
+  float: left;
+  margin-right: 10px;
 }
 .my-post-thumb img {
   width: 178px;
-  height: 100px;
-}
-.my-post-thumb a {
-  width: 178px;
-  height: 100px;
-}
-.my-post-info {
-  vertical-align: top
-}
-.my-post-title {
-}
-.my-post-tweet {
 }
