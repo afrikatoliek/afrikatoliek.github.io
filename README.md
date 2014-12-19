@@ -22,3 +22,4 @@ Thanks
 1. http://designpieces.com/2012/12/social-media-colours-hex-and-rgb/
 1. http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31
 1. http://validator.w3.org/
+1. http://jsfiddle.net/

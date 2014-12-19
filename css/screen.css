@@ -162,6 +162,10 @@ table {
 	padding: 4px;
 }
 
+#index .twitter-timeline {
+  width: 100%;
+}
+
   /* terminal */
 
   #post pre.terminal {
