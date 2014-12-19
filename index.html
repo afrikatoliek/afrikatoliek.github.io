@@ -5,17 +5,6 @@ tweet: A child of the Father, a brother of the Son.
 ---
 <div id="index">
 	<ul class="posts">
-		<li>
-			<div class="my-post-card">
-				<div class="my-post-thumb">
-					<a class="twitter-timeline" href="https://twitter.com/f1l11d31" data-widget-id="545941625948876802" data-tweet-limit="1">Tweets by @f1l11d31</a>
-				</div>
-				<div class="my-post-info">
-					<h3><a href="https://twitter.com/f1l11d31">What is this?</a></h3>
-					<p>What is this?</p>
-				</div>
-			</div>
-		</li>
 		{% for post in site.posts %}
 		<li>
 			<div class="my-post-card">
@@ -31,4 +20,3 @@ tweet: A child of the Father, a brother of the Son.
 		{% endfor %}
 	</ul>
 </div>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

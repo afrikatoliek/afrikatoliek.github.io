@@ -23,3 +23,6 @@ Thanks
 1. http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31
 1. http://validator.w3.org/
 1. http://jsfiddle.net/
+
+<a class="twitter-timeline" href="https://twitter.com/f1l11d31" data-widget-id="545941625948876802" data-tweet-limit="1">Tweets by @f1l11d31</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
