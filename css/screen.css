@@ -246,6 +246,7 @@ div.my-inline-right {
   text-align: right;
   margin-right: 0;
   float: right;
+  vertical-align: top;
 }
 
 ul.posts {
