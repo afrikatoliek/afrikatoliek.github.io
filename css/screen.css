@@ -242,11 +242,14 @@ div.my-inline-right {
     margin-bottom: 0px;
 }
 
+.my-div-top {
+  vertical-align: text-top;
+}
+
 .my-span-right {
   text-align: right;
   margin-right: 0;
   float: right;
-  vertical-align: text-top;
 }
 
 ul.posts {
