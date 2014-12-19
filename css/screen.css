@@ -243,8 +243,8 @@ div.my-inline-right {
 }
 
 .my-span-right {
-  margin-left: auto;
   margin-right: 0;
+  float: right;
 }
 
 ul.posts {
