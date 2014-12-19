@@ -31,7 +31,7 @@ The job of the "drumkit operator" was to play basic drums for the following song
 1. Under the Boardwalk
 1. Wild World
 
-The fruits of this labour (gpx files for drumkit-only) can be found on [Dropbox](https://www.dropbox.com/sh/1tvrhlghu8t0t6u/AADbnhQn2sJs27s1ANv8qGdwa?dl=0) or Google Drive. The notation was arranged according to the requirements of the concert, so feel free to modify them.
+The fruits of this labour (gpx files for drumkit-only) can be found on [Dropbox](https://www.dropbox.com/sh/1tvrhlghu8t0t6u/AADbnhQn2sJs27s1ANv8qGdwa?dl=0) or Google Drive. The notation was arranged according to the requirements of the concert, so feel free to make modifications.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B_o4ld7RKViicXFLeERjMnhMY1E#list" width="100%" height="500" frameborder="0"></iframe>
 
