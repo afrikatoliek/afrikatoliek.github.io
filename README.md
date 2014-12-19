@@ -20,3 +20,5 @@ Thanks
 1. https://wiki.logos.com/Biblia_Verse_of_the_Day_images
 1. https://github.com/reimertz/brand-colors/blob/master/dist/latest/css/brand-colors.latest.css
 1. http://designpieces.com/2012/12/social-media-colours-hex-and-rgb/
+1. http://www.mobilexweb.com/blog/home-screen-web-apps-android-chrome-31
+1. http://validator.w3.org/
