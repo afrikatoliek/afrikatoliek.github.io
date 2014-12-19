@@ -244,7 +244,7 @@ div.my-inline-right {
 
 .my-div-top {
   vertical-align: text-top;
-  line-height: 1em;
+  line-height: normal;
 }
 
 .my-span-right {
