@@ -243,6 +243,7 @@ div.my-inline-right {
 }
 
 .my-span-right {
+  text-align: right;
   margin-right: 0;
   float: right;
 }
