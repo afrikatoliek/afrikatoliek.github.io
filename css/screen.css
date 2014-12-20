@@ -259,22 +259,22 @@ div.my-inline-right {
 }
 
 div.index {
-    line-height: normal;
+  line-height: normal;
+  text-align: left;
 }
-
-div.index-card a {
-    font-weight: bold;
-    font-family: 'PT Mono', monospace;
+div.index-left a {
+  font-family: 'PT Mono', monospace;
+  font-weight: bold;
   font-size: 100%;
   color: #333737;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
-div.index-card a:link {
+div.index-left a:link {
 }
-div.index-card a:visited {
-    color: inherit;
+div.index-left a:visited {
+  color: inherit;
 }
-div.index-card p {
+div.index-left p {
   margin-top: 0;
 }
