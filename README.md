@@ -24,6 +24,6 @@ Thanks
 1. http://validator.w3.org/
 1. http://jsfiddle.net/
 1. https://dev.twitter.com/web/embedded-timelines#customization
+1. https://github.com/h5bp/mobile-boilerplate
+1. http://developer.android.com/guide/webapps/best-practices.html
 
-<a class="twitter-timeline" href="https://twitter.com/f1l11d31" data-widget-id="545941625948876802" data-tweet-limit="1">Tweets by @f1l11d31</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
