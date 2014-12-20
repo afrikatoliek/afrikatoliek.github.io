@@ -26,4 +26,7 @@ Thanks
 1. https://dev.twitter.com/web/embedded-timelines#customization
 1. https://github.com/h5bp/mobile-boilerplate
 1. http://developer.android.com/guide/webapps/best-practices.html
+1. https://cards-dev.twitter.com/validator
+1. https://dev.twitter.com/cards/types/photo
+1. http://stackoverflow.com/questions/8235687/open-graph-namespace-declaration-html-with-xmlns-or-head-prefix
 
