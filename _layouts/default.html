@@ -7,22 +7,20 @@
   <meta http-equiv="cleartype" content="on" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>{{ page.title }}</title>
   <!-- This site is not ready for mobile yet.
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
   -->
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="author" content="{{ site.author }}" />
-  <meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM" />
   <link rel="apple-touch-icon" href="{{ site.url }}/icon-196x196.png" />
   <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/icon-196x196.png" />
   <link rel="shortcut icon" href="{{ site.url }}/icon-196x196.png" />
   <link rel="icon" href="{{ site.url }}/icon-196x196.png" />
   <link rel="alternate" href="{{ site.url }}/feed.xml" type="application/atom+xml" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <link rel="stylesheet" href="/css/animate.min.css" type="text/css" />
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
@@ -39,15 +37,20 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:description" content="{{ page.tweet }}" />
   <!-- Twitter photo card -->
+  <!--
   <meta name="twitter:card" content="photo" />
   <meta name="twitter:site" content="@f1l11d31" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:image" content="{{ page.thumb }}" />
   <meta name="twitter:url" content="{{ page.url }}" />
-  <!--
-  <meta name="twitter:title" content="{{ page.title }}" />
   -->
+  <!-- Twitter summary card with large image -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@f1l11d31" />
+  <meta name="twitter:creator" content="@f1l11d31" />
+  <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.tweet }}" />
+  <meta name="twitter:image:src" content="{{ page.thumb }}" />
 
   <script>
     var _gaq = _gaq || [];
