@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
  <!-- og is Open Graph (Facebook Sharing, etc.) http://ogp.me -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us" prefix="og: http://ogp.me/ns#" xmlns:og="http://ogp.me/ns#">
-<head>
+<html>
+<head prefix="og: http://ogp.me/ns#">
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="cleartype" content="on" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
-  <meta name="viewport" content="width=device-width, initial-scale=0.8, user-scalable=yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>{{ page.title }}</title>
   <!-- This site is not ready for mobile yet.
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
@@ -38,16 +38,18 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:description" content="{{ page.tweet }}" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@https://twitter.com/f1l11d31" />
-  <meta name="twitter:creator" content="@https://twitter.com/f1l11d31" />
+  <!-- Twitter photo card -->
+  <meta name="twitter:card" content="photo" />
+  <meta name="twitter:site" content="@f1l11d31" />
+  <meta name="twitter:title" content="{{ page.tweet }}" />
+  <meta name="twitter:image" content="{{ page.thumb }}" />
+  <meta name="twitter:url" content="{{ page.url }}" />
+  <!--
   <meta name="twitter:title" content="{{ page.title }}" />
+  -->
+  <!--
   <meta name="twitter:description" content="{{ page.tweet }}" />
-  <meta name="twitter:image:src" content="{{ page.thumb }}" />
-  <meta name="twitter:image:src" content="{{ page.image }}" />
-  <meta name="twitter:image:src" content="{{ site.thumb }}" />
-  <meta name="twitter:image:src" content="{{ site.image }}" />
-  <meta name="twitter:domain" content="{{ site.url }}" />
+  -->
 
   <script>
     var _gaq = _gaq || [];
