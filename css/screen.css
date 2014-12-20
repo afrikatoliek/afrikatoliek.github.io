@@ -258,15 +258,15 @@ div.my-inline-right {
   font-size: medium;
 }
 
-div.index {
+.index {
   line-height: normal;
   text-align: left;
 }
-div.index-left a {
+.index-left {
   line-height: normal;
   text-align: left;
 }
-div.index-left a {
+.index-left a {
   font-family: 'PT Mono', monospace;
   font-weight: bold;
   font-size: 100%;
@@ -275,12 +275,12 @@ div.index-left a {
   text-transform: uppercase;
   text-align: left;
 }
-div.index-left a:link {
+.index-left a:link {
 }
-div.index-left a:visited {
+.index-left a:visited {
   color: inherit;
 }
-div.index-left p {
+.index-left p {
   margin-top: 0;
   text-align: left;
 }
