@@ -67,24 +67,24 @@ table {
 }
 
 .site .heading a:link {
-	color: #333737;
-	text-decoration: none;
+  color: #333737;
+  text-decoration: none;
 }
 
 .site .heading a:visited {
-	color: #333737;
+  color: #333737;
 }
 
 .site .heading a:hover {
-	color: #0000FF;  
+  color: #0000FF;  
 }
 
 .site .heading a:active {
-	color: #FF00FF;
+  color: #FF00FF;
 }
 
 .site .subtitle {
-	font-family: 'Great Vibes', cursive;
+  font-family: 'Great Vibes', cursive;
   font-size: 30px;
   font-weight: normal;
   color: #333737;
@@ -94,19 +94,19 @@ table {
 }
 
   #post h1 {
-	font-family: 'PT Mono', monospace;
-	font-weight: bold;
-	font-size: 175%;
-	color: #333737;
-	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  font-family: 'PT Mono', monospace;
+  font-weight: bold;
+  font-size: 175%;
+  color: #333737;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
   }
   
 #post h2 {
-	font-family: 'PT Mono', monospace;
-	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 15px;
-	margin-top: 15px;
+  font-family: 'PT Mono', monospace;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 15px;
+  margin-top: 15px;
   }
 
 #post h3 {
@@ -126,12 +126,12 @@ table {
 
   #post ul,
   #post ol {
-	margin: 0px 50px;
-	/*font-family: 'PT Mono', monospace;*/
+  margin: 0px 50px;
+  /*font-family: 'PT Mono', monospace;*/
   }
 
   #post code {
-  	font-family: 'PT Mono', monospace;
+    font-family: 'PT Mono', monospace;
     background-color: #eef;
     font-size: 100%;
     padding: 4px;
@@ -140,26 +140,26 @@ table {
     #post pre code {
       border: none;
     }
-	
+  
 #post p em {
-	font-family: 'PT Mono', monospace;
-	font-size: 100%;
-	font-weight: normal;
+  font-family: 'PT Mono', monospace;
+  font-size: 100%;
+  font-weight: normal;
 }
 
 #post .letter {
-	font-family: 'Great Vibes', cursive;
-	font-size: 200%;
-	font-weight: normal;
-	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  font-family: 'Great Vibes', cursive;
+  font-size: 200%;
+  font-weight: normal;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
 
 #post p strong {
-	font-family: 'PT Mono', monospace;
-	font-size: 100%;
-	font-weight: normal;
-	background-color: #eef;
-	padding: 4px;
+  font-family: 'PT Mono', monospace;
+  font-size: 100%;
+  font-weight: normal;
+  background-color: #eef;
+  padding: 4px;
 }
 
   /* terminal */
@@ -253,50 +253,27 @@ div.my-inline-right {
   float: right;
 }
 
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 1em;
-  font-size: 120%;
-  font-family: "Roboto", sans-serif;
-}
-
-ul.posts li {
-  line-height: 1.0em;
-}
-
-ul.posts span {
-  color: #aaa;
-}
-
 .my-post-card {
   display: inline;
   font-size: medium;
 }
-.my-post-thumb {
-  float: left;
-  margin-right: 10px;
-}
-.my-post-thumb img {
-  width: 200px;
-  max-height: 130px;
-}
-.my-post-info {
-  margin: 0px;
-  height: 130px;
-  overflow: hidden;
+
+div.index {
+    line-height: normal;
 }
 
-.my-post-info h3 {
-  font-family: 'PT Mono', monospace;
-  font-weight: bold;
-  font-size: large;
-  margin: 0px;
-  vertical-align: top;
-  background-color: #eef;
+div.index-card a {
+    font-weight: bold;
+    font-family: 'PT Mono', monospace;
+  font-size: 100%;
+  color: #333737;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+    text-transform: uppercase;
 }
-
-.my-post-info p {
-  margin: 0px;
-  vertical-align: top;
-  font-size: medium;
+div.index-card a:link {
+}
+div.index-card a:visited {
+    color: inherit;
+}
+div.index-card p {
 }
