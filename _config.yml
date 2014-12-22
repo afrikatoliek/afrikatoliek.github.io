@@ -4,8 +4,8 @@ name: Filii Dei
 author: Filius Dei
 description: f1l11d31
 url: http://f1l11d31.github.io
-thumb: https://lh5.googleusercontent.com/-YZDsKuVW0E8/VFnbL3oongI/AAAAAAAAAEE/FCcuBdsHyYU/w1207-h942-no/748280029_92bf2c6dc9_o.jpg
-image: https://pbs.twimg.com/profile_images/529572842522689536/8YQbK8R2.jpeg
+thumb: https://s-media-cache-ak0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601a18687b7df7.jpg
+image: https://lh5.googleusercontent.com/-YZDsKuVW0E8/VFnbL3oongI/AAAAAAAAAEE/FCcuBdsHyYU/w1207-h942-no/748280029_92bf2c6dc9_o.jpg
 defaults:
   -
     scope:
@@ -14,5 +14,5 @@ defaults:
     values:
       layout: "post"
       attrib: "@f1l11d31"
-      thumb: "https://lh5.googleusercontent.com/-YZDsKuVW0E8/VFnbL3oongI/AAAAAAAAAEE/FCcuBdsHyYU/w1207-h942-no/748280029_92bf2c6dc9_o.jpg"
+      thumb: "https://s-media-cache-ak0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601a18687b7df7.jpg"
       tweet: "Perhaps you like this."
