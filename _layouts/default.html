@@ -27,7 +27,6 @@
   <meta name="description" content="{{ page.tweet }}" />
   <meta property="og:site_name" content="{{ site.name }}" />
   <meta property="og:image" content="{{ page.thumb }}" />
-  <meta property="og:image" content="{{ page.image }}" />
   <meta property="og:image" content="{{ site.thumb }}" />
   <meta property="og:image" content="{{ site.image }}" />
   <meta property="og:type" content="article" />
@@ -36,21 +35,8 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:description" content="{{ page.tweet }}" />
-  <!-- Twitter photo card -->
-  <!--
-  <meta name="twitter:card" content="photo" />
-  <meta name="twitter:site" content="@f1l11d31" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:image" content="{{ page.thumb }}" />
-  <meta name="twitter:url" content="{{ page.url }}" />
-  -->
-  <!-- Twitter summary card with large image -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@f1l11d31" />
-  <meta name="twitter:creator" content="@f1l11d31" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ page.tweet }}" />
-  <meta name="twitter:image:src" content="{{ page.thumb }}" />
+  
+  {% include {{ page.type }}.html %}
 
   <script>
     var _gaq = _gaq || [];
