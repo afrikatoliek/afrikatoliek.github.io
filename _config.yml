@@ -15,5 +15,5 @@ defaults:
       layout: "post"
       type: "headline"
       attrib: "@f1l11d31"
-	  thumb: https://lh5.googleusercontent.com/-YZDsKuVW0E8/VFnbL3oongI/AAAAAAAAAEE/FCcuBdsHyYU/w1207-h942-no/748280029_92bf2c6dc9_o.jpg
+	  thumb: "https://lh5.googleusercontent.com/-YZDsKuVW0E8/VFnbL3oongI/AAAAAAAAAEE/FCcuBdsHyYU/w1207-h942-no/748280029_92bf2c6dc9_o.jpg"
 	  tweet: "Perhaps you like this."
