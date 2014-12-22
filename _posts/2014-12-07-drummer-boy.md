@@ -11,7 +11,7 @@ attrib: @ArobasMusic
 ================
 
 <div class="my-inline-left pull-left">
-<a href="http://www.guitar-pro.com/en/index.php"><img width="388px" src="{{ page.image }}" /></a>
+<a href="http://www.guitar-pro.com/en/index.php"><img width="388px" src="{{ page.thumb }}" /></a>
 </div>
 
 <span class="letter">Dear Drummer</span>

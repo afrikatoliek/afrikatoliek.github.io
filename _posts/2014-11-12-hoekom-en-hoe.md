@@ -9,7 +9,7 @@ thumb: https://s-media-cache-ak0.pinimg.com/736x/c3/c9/98/c3c9984ad1f029c2bcd748
 ================
 
 <div class="my-inline-left pull-left">
-<biblia:bibleverse theme="header" resource="rsvce" width="512" height="288" reference="Jn1.12-13"><blockquote style="width:100%;">But to all who received him, who believed in his name, he gave power to become children of God; who were born, not of blood nor of the will of the flesh nor of the will of man, but of God. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Jn1.12-13">Jn 1:12-13</a></blockquote></biblia:bibleverse>
+<biblia:bibleverse theme="quotation" resource="rsvce" width="512" height="288" reference="Jn1.12-13"><blockquote style="width:100%;">But to all who received him, who believed in his name, he gave power to become children of God; who were born, not of blood nor of the will of the flesh nor of the will of man, but of God. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Jn1.12-13">Jn 1:12-13</a></blockquote></biblia:bibleverse>
 </div>
 
 <span class="letter">Geliefde Leser</span>
