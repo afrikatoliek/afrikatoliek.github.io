@@ -29,4 +29,6 @@ Thanks
 1. https://cards-dev.twitter.com/validator
 1. https://dev.twitter.com/cards/types/photo
 1. http://stackoverflow.com/questions/8235687/open-graph-namespace-declaration-html-with-xmlns-or-head-prefix
+1. http://biblia.com/plugins/BibleVerse
+1. http://reftagger.com/
 

@@ -2,7 +2,7 @@
 layout: post
 title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
-tweet: Exchange a false reality for the true reality.
+tweet: These conspiracy theories that you so passionately believe in and promote, do they bring you closer to God?
 thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace4e8bdc2b59.jpg
 image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H3dX4o22GM/w1278-h719-no/Ezekiel%2B40.4.jpg
 ---
@@ -11,29 +11,22 @@ image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H
 ================
 
 <div class="my-inline-left pull-left">
-<biblia:bibleverse theme="header" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
+<biblia:bibleverse theme="quotation" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 </div>
 
 <span class="letter">Dear Christian</span>
 
 _(Grant me the grace to hear your voice, O Lord.)_
 
-Are conspiracy theories more real for you than the Gospel? Has your superior intellect and research convinced you of a plain but **hidden reality** known only by open-minded people and honest seekers? Then be careful. Your pride has become your stumbling block.
+These conspiracy theories that you so passionately believe in and promote, do they bring you closer to God in holiness and prayer? Do you recognize Christ in those theories, as if He himself were behind them? Examine the effect of these beliefs on your own life and those who follow you. Have you forgotten the tactics of the deceiver?
 
-You may have been led astray by the deceiver onto a path that leads away from Christ. Come back and build your house on solid ground and not on the shifting sands of the desert. **Ask yourself** whether these judgments will help you in the day of tribulation, or whether they will hold in the generation of your grand children and benefit them in any way. The gospel of Christ, a participation in His cross, and humility will be your main weapons against the enemy. Come back to the fullness of truth.
+It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**. 
 
-A belief in this hidden "reality" only appears mature and enlightened, but its substance is that of a rebellious infant. Spend the good years of your life by seeking the **true reality**{:.animated .tada .anim-repeater}, the Kingdom of God, instead of wasting precious time inside an illusion created by the minds of men. The true path has been made known in every age and is found by tracing the footsteps of those who have already made the journey and who have settled on the Rock. 
+When your theory crumbles, and it will, you will be faced with two options: draw near to God and His Kingdom of Truth, or separate yourself from Him and enter the **cocoon of your personal belief** system. The devil has succeeded if you choose the latter.
 
-Examine the fruits of your beliefs and evaluate their **eternal worth**. Judge the so-called "truths" of these conspiracy theories by the Light of Christ and His Saints. Judge righteous judgment. Christ did not spend energy on believing in conspiracy theories, and neither did he base his most important decisions around them. Do you think conspiracy theories did not exist in His time?
+Come! Build your house on solid ground and not on the shifting sands of the desert. Seek the **Truth of God**{:.animated .tada .anim-repeater}, instead of wasting away inside the **illusions of men**. Remove the dirt and uncover the path that has existed since the time of Christ and will continue forever. Trace the footsteps of those who have already made the journey and you will find that they have settled on the Rock.
 
-It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them **captivated** by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. These seekers then reject the simplicity of the Gospel to follow a path that leads to the destruction of their souls and the forsaking of everything that is true. This brings the devil great satisfaction.
-
-<div class="my-inline-right pull-right">
-<biblia:bibleverse theme="no-header" resource="rsvce" width="512px" resourcePicker="false" showVotd="false" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
-</div>
-Take this to heart: the Light of Christ continues to shine brightly in this world, giving light to all; guiding them along the path of peace, **in union** with all those who came before them and all who are to come after them. 
-
-The Kingdom of God is here now, clearly visible and universal. A <cite class="bibleref" title="Mt 5:14-15">**city set on a hill**</cite> for all to see - _so that all may see_. 
+The Light of God is here now, clearly visible and universal. A **city set on a hill** for all to see - _so that all may see and believe_.
 
 _(Grant me the grace to obey your voice, O Lord.)_
 
@@ -102,15 +95,6 @@ Related Links
 
 ### Other
 1. [Y U No Check Facts? (Meme)](https://www.facebook.com/CatholicGag/photos/a.384406138274626.81541.384404818274758/445960195452553/?type=1) <i class="fa fa-facebook"></i>
-
-<script>
-  var refTagger = { settings: { bibleVersion: "DOUAYRHEIMS" } };
-  (function(d, t) {
-    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-    g.src = "//api.reftagger.com/v2/RefTagger.js";
-    s.parentNode.insertBefore(g, s);
-  }(document, "script"));
-</script>
 
 <script src="//biblia.com/api/logos.biblia.js"></script>
 <script>logos.biblia.init();</script>
