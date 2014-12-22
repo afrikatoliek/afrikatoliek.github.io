@@ -18,7 +18,7 @@ image: https://lh6.googleusercontent.com/-i_uadtAdbtc/VInYNB8dO6I/AAAAAAAAN4c/0H
 
 _(Grant me the grace to hear your voice, O Lord.)_
 
-These conspiracy theories that you so passionately believe in and promote, do they bring you closer to God in holiness and prayer? Do you **recognize Christ** in those theories, as if He himself were behind them? Examine the effect of these beliefs on your own life and those who follow you. Have you forgotten the tactics of the deceiver?
+These conspiracy theories that you so passionately believe in and promote, do they bring you closer to God in holiness and prayer? Do you **recognize Christ** in those theories, as if He himself brought them to light? Examine the effect of these beliefs on your own life and those who follow you. Have you forgotten the tactics of the deceiver?
 
 It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**. 
 
