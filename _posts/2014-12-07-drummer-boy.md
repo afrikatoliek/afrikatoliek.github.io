@@ -3,8 +3,6 @@ title: Drummer Boy
 permalink: drummer-boy
 tweet: Free .gpx files for beginner-level drummers.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/ee/48/3f/ee483f6233fc6b0b9b27665f4574d80d.jpg
-type: photo
-attrib: @ArobasMusic
 ---
 
 {{ page.title }}

@@ -3,8 +3,6 @@ title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
 tweet: These conspiracy theories that you so passionately believe in and promote, do they bring you closer to God?
 thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace4e8bdc2b59.jpg
-type: photo
-attrib: @logos
 ---
 
 {{ page.title }}
