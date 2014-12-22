@@ -22,11 +22,11 @@ These conspiracy theories that you so passionately believe in and promote, do th
 
 It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**. 
 
-When your theory crumbles, and it will, you will be faced with two options: draw near to God and His Kingdom of Truth, or separate yourself from Him and enter the **cocoon of your personal belief** system. The devil has succeeded if you choose the latter.
+When your theory crumbles, and **it will**, you will be faced with two options: draw near to God and His Kingdom of Truth, or separate yourself from Him and enter the **cocoon of your personal belief** system. The devil has succeeded if you choose the latter.
 
-Come! Build your house on solid ground and not on the shifting sands of the desert. Seek the **Truth of God**{:.animated .tada .anim-repeater}, instead of wasting away inside the **illusions of men**. Remove the dirt and uncover the path that has existed since the time of Christ and will continue forever. Trace the footsteps of those who have already made the journey and you will find that they have settled on the Rock.
+Come! Build your house on **solid ground** and not on the shifting sands of the desert. Seek the **Truth of God**, instead of wasting away inside the **illusions of men**. Discover the path that has existed since the time of Christ and that will continue forever. Trace the footsteps of those who have already made the journey and you will find that they have settled on this Rock.
 
-The Light of God is here now, clearly visible and universal. A **city set on a hill** for all to see - _so that all may see and believe_.
+The Light of God is here and universally known. A **city set on a hill** for all to see - _so that all may see_ **and believe**.
 
 _(Grant me the grace to obey your voice, O Lord.)_
 
