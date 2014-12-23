@@ -269,6 +269,7 @@ div.my-inline-right {
   font-weight: bold;
   font-size: 100%;
   color: #333737;
+  background-color: #eef;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
   text-transform: uppercase;
   text-align: left;
