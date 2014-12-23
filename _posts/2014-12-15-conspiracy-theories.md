@@ -17,9 +17,9 @@ thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace
 
 _(Grant me the grace to hear your voice, O Lord.)_
 
-We must look for the **Spirit of Christ** in every idea that we encounter. Ask for the grace to recognize and hear Him, and get to know Him through Scripture, Prayer and the Sacraments. Do you know the tactics of the deceiver?
+We must look for the **Spirit of Christ** in every idea that we encounter. Ask for the grace to recognize and hear Him, and get to know Him through Scripture, Prayer and the Sacraments. 
 
-It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**. 
+Do you know the tactics of the deceiver? It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**.
 
 When a false idea crumbles, we are faced with two options: draw near to God and His Kingdom of Truth, or separate ourselves from Him and enter the **cocoon of our own personal belief** system. The devil has succeeded if we choose the latter.
 
@@ -29,7 +29,7 @@ When a false idea crumbles, we are faced with two options: draw near to God and 
 </div>
 Come! Build your house on **solid ground** and not on the shifting sands of the desert. Seek the **Truth of God**, instead of wasting away inside the **illusions of men**. Discover the path that has existed since the time of Christ and that will continue forever. Trace the footsteps of those who have already made the journey and you will find that they have settled on this Rock.
 
-The Light of God is still with us &mdash; A **city set on a hill** for all to see &mdash; _so that all may see_ **and believe**.
+The Light of God is still with us. A **city set on a hill** for all to see &mdash; _so that all may see_ **and believe**.
 
 _(Grant me the grace to obey your voice, O Lord.)_
 
