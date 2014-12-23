@@ -6,6 +6,7 @@ thumb: "https://s-media-cache-ak0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601
 attrib: "@f1l11d31"
 ---
 <div id="index">
+<!--
 	<div class="index-left">
 	{% for post in site.posts %}
 		<p>
@@ -15,5 +16,12 @@ attrib: "@f1l11d31"
 		</p>
 	{% endfor %}
     </div>
+    -->
+	<div class="index-left">
+	{% for post in site.posts %}
+    <p>
+    	<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+	{% endfor %}
+    </div>
 </div>
-
