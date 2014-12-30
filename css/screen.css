@@ -101,6 +101,9 @@ table {
     width: 300px;
     height: 250px;
 }
+.index .twitter {
+  margin-top: 10px;
+}
 .site .subtitle {
     font-family:'Great Vibes', cursive;
     font-size: 30px;
