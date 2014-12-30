@@ -87,11 +87,12 @@ table {
 .site .heading .title {
   vertical-align: text-top;
   text-align: left;
-  height: inherit;
+  height: 112px;
 }
 
 .site .heading .thumb {
-  height: inherit;
+  height: 112px;
+  margin-right: 10px;
 }
 
 .site .heading .thumb img {
