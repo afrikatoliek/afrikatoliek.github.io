@@ -87,6 +87,14 @@ table {
   vertical-align: text-middle;
 }
 
+.heading .thumb span {
+  height: 100%;
+}
+
+.heading .title span {
+  height: 100%;
+}
+
 .heading .thumb img {
   width: 96px;
   height: 96px;
@@ -96,8 +104,8 @@ table {
 }
 
 .index .votd img {
-  width: 400px;
-  height: 350px;
+  width: 300px;
+  height: 250px;
 }
 
 .site .subtitle {
