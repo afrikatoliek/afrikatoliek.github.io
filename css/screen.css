@@ -88,16 +88,16 @@ table {
 }
 
 .heading .thumb img {
-  width: 96;
-  height: 96;
+  width: 96px;
+  height: 96px;
   border: 1px solid;
   border-radius: 25px;
   box-shadow: 2px 2px 2px rgba(0,0,0,0.1);
 }
 
 .index .votd img {
-  width: 400;
-  height: 350;
+  width: 400px;
+  height: 350px;
 }
 
 .site .subtitle {
