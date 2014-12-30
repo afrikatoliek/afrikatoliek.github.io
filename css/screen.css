@@ -83,6 +83,23 @@ table {
   color: #FF00FF;
 }
 
+.heading .title {
+  vertical-align: text-middle;
+}
+
+.heading .thumb img {
+  width: 96;
+  height: 96;
+  border: 1px solid;
+  border-radius: 25px;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.1);
+}
+
+.index .votd img {
+  width: 400;
+  height: 350;
+}
+
 .site .subtitle {
   font-family: 'Great Vibes', cursive;
   font-size: 30px;
