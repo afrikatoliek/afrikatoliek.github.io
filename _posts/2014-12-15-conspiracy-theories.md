@@ -10,8 +10,6 @@ thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace
 <biblia:bibleverse theme="quotation" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
 </div>
 
-<span class="letter">Dear Christian</span>
-
 _(Grant me the grace to hear your voice, O Lord.)_
 
 We must look for the **Spirit of Christ** in every idea that we encounter. Ask for the grace to recognize and hear Him, and get to know Him through Scripture, Prayer and the Sacraments. 
@@ -29,8 +27,6 @@ Come! Build your house on **solid ground** and not on the shifting sands of the 
 The Light of God is still with us. A **city set on a hill** for all to see &mdash; _so that all may see_ **and believe**.
 
 _(Grant me the grace to obey your voice, O Lord.)_
-
-<span class="letter">With Love</span>
 
 ---
 

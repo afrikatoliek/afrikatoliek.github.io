@@ -9,8 +9,6 @@ thumb: https://s-media-cache-ak0.pinimg.com/736x/ee/48/3f/ee483f6233fc6b0b9b2766
 <a href="http://www.guitar-pro.com/en/index.php"><img width="388px" src="{{ page.thumb }}" /></a>
 </div>
 
-<span class="letter">Dear Drummer</span>
-
 A friend of mine organized a concert for his music students. A drummer was required for some of the songs, and this is where I come in. As the date of the concert drew closer, I realized that I needed a more effective approach for practising the songs. So with the help of my friend (and Google), I set off to notate the drums using Guitar Pro.
 
 The job of the "drumkit operator" was to play basic drums for the following songs:
@@ -29,5 +27,3 @@ The job of the "drumkit operator" was to play basic drums for the following song
 The fruits of this labour (gpx files for drumkit-only) can be found on [Dropbox](https://www.dropbox.com/sh/1tvrhlghu8t0t6u/AADbnhQn2sJs27s1ANv8qGdwa?dl=0) or Google Drive. The notation was arranged according to the requirements of the concert, so feel free to make modifications.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B_o4ld7RKViicXFLeERjMnhMY1E#list" width="100%" height="500" frameborder="0"></iframe>
-
-<span class="letter">With Love</span>
