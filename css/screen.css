@@ -242,7 +242,7 @@ table {
 }
 
 .social-media i {
-  padding-right: 2px;
+  padding-right: 5px;
 }
 
 div.my-inline-left {
@@ -262,6 +262,7 @@ div.my-inline-right {
 .my-div-top {
   vertical-align: text-top;
   line-height: normal;
+  padding-bottom: 5px;
 }
 
 .my-span-right {
