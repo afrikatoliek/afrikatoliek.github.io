@@ -16,7 +16,7 @@ attrib: "@f1l11d31"
 	</div>
 	<div class="index-left">
 	{% for post in site.posts %}
-    <div>
+    <div class="index-row">
     	<span class="index-date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
 	{% endfor %}

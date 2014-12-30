@@ -101,6 +101,9 @@ table {
     width: 300px;
     height: 250px;
 }
+.index .index-left .index-row {
+  margin-bottom: 10px;
+}
 .index .twitter {
   margin-top: 10px;
 }
