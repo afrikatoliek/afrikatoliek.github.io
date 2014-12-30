@@ -88,11 +88,15 @@ table {
 }
 
 .heading .thumb span {
-  height: inherit;
+  position: absolute;
+  top: 0;
+  bottom: 0;
 }
 
 .heading .title span {
-  height: inherit;
+  position: absolute;
+  top: 0;
+  bottom: 0;
 }
 
 .heading .thumb img {
