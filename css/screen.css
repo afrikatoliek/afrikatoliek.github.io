@@ -237,6 +237,14 @@ table {
   color: inherit;
 }
 
+.social-media {
+  padding-top: 5px;
+}
+
+.social-media i {
+  padding-right: 2px;
+}
+
 div.my-inline-left {
     margin-left: 0px;
     margin-right: 20px;
