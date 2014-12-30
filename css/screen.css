@@ -64,6 +64,7 @@ table {
   font-weight: normal;
   color: #333737;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  height: 112px;
 }
 
 .site .heading a:link {
@@ -83,21 +84,17 @@ table {
   color: #FF00FF;
 }
 
-.heading .title {
+.site .heading .title {
   vertical-align: text-top;
-  position: absolute;
-  top: 0;
-  bottom: 0;
   text-align: left;
+  height: inherit;
 }
 
-.heading .thumb {
-  position: absolute;
-  top: 0;
-  bottom: 0;
+.site .heading .thumb {
+  height: inherit;
 }
 
-.heading .thumb img {
+.site .heading .thumb img {
   width: 96px;
   height: 96px;
   border: 1px solid;
