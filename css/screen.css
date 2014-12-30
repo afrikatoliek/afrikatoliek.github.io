@@ -64,7 +64,6 @@ table {
   font-weight: normal;
   color: #333737;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
-  height: 112px;
 }
 
 .site .heading a:link {
@@ -87,11 +86,9 @@ table {
 .site .heading .title {
   vertical-align: text-top;
   text-align: left;
-  height: 112px;
 }
 
 .site .heading .thumb {
-  height: 112px;
   margin-right: 10px;
 }
 
