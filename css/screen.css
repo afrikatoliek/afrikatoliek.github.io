@@ -64,6 +64,7 @@ table {
   font-weight: normal;
   color: #333737;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  height: 100%;
 }
 
 .site .heading a:link {
@@ -262,6 +263,7 @@ table {
 
 .social-media {
   padding-top: 5px;
+  padding-bottom: 10px;
   font-size: medium;
 }
 
@@ -287,6 +289,7 @@ div.my-inline-right {
   vertical-align: text-top;
   line-height: normal;
   padding-bottom: 10px;
+  height: 100%;
 }
 
 .my-span-right {
