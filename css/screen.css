@@ -85,9 +85,9 @@ table {
 }
 
 .site .heading .title {
+  display: inline-block;
   vertical-align: text-top;
   text-align: left;
-  height: 112px;
 }
 
 .site .heading .thumb {
@@ -263,8 +263,8 @@ table {
 
 .social-media {
   padding-top: 5px;
-  padding-bottom: 10px;
-  font-size: medium;
+  padding-bottom: 20px;
+  font-size: large;
 }
 
 .social-media i {
