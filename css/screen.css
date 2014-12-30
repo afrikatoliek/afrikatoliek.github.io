@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Mono);
-@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
-@import url(http://fonts.googleapis.com/css?family=Roboto);
+ @import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+ @import url(http://fonts.googleapis.com/css?family=Roboto);
 
 /* Global Reset */
  * {
@@ -53,6 +53,7 @@ table {
     color: #333737;
     text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.1);
     height: 100%;
+    display: inline-block;
 }
 .site .heading a:link {
     color: #333737;
@@ -72,14 +73,29 @@ table {
     vertical-align: text-top;
     text-align: left;
 }
-.site .heading .thumb {
-    margin-right: 10px;
+.site .heading .social-media .thumb {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
-.site .heading .thumb img {
-    height: 100px;
+.site .heading .social-media .thumb img {
+    height: 112px;
     border: 1px solid;
     border-radius: 25px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 0px 0px 0px 0px;
+    margin: 0px 20px 0px 0px;
+    float: left;
+}
+.site .heading .social-media {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 50%;
+    text-align: left;
+    overflow: hidden;
+}
+.site .heading .social-media i {
+    padding: 0px 0px 15px 15px;
+    margin: 0px 0px 0px 0px;
 }
 .index .votd img {
     width: 300px;
@@ -215,15 +231,6 @@ table {
 }
 .static-link a:visited {
     color: inherit;
-}
-.social-media {
-    padding-top: 5px;
-    padding-bottom: 20px;
-    font-size: 80%;
-    text-align: left;
-}
-.social-media i {
-    padding-right: 5px;
 }
 div.my-inline-left {
     margin-left: 0px;
