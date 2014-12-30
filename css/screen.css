@@ -216,6 +216,12 @@ table {
 .fg-github {
   color: #171515;
 }
+.fg-bitbucket {
+  color: #205081;
+}
+.fg-flickr {
+  color: #fc329b;
+}
 
 .static-link {
 }
