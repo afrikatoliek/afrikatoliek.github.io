@@ -85,15 +85,13 @@ table {
 
 .heading .title {
   vertical-align: text-top;
-}
-
-.heading .thumb span {
   position: absolute;
   top: 0;
   bottom: 0;
+  text-align: left;
 }
 
-.heading .title span {
+.heading .thumb {
   position: absolute;
   top: 0;
   bottom: 0;
