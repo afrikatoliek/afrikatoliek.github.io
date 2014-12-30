@@ -87,12 +87,12 @@ table {
   vertical-align: text-top;
 }
 
-.heading .thumb span {
-  height: 100%;
+.heading .thumb div {
+  height: inherit;
 }
 
-.heading .title span {
-  height: 100%;
+.heading .title div {
+  height: inherit;
 }
 
 .heading .thumb img {
