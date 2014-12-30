@@ -84,13 +84,13 @@ table {
   color: #FF00FF;
 }
 
-.site .heading .title span {
+.site .heading .title {
   vertical-align: text-top;
   text-align: left;
   height: 112px;
 }
 
-.site .heading .thumb span {
+.site .heading .thumb {
   height: 112px;
   margin-right: 10px;
 }
