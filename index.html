@@ -7,7 +7,7 @@ attrib: "@f1l11d31"
 ---
 <div id="index">
 	<div class="my-inline-right pull-right">
-		<biblia:verseoftheday resource="rsvce" width="300" height="250" singleImage="false" theme="colorbar" variant="light"></biblia:verseoftheday>
+		<a target="_blank" href="http://biblia.com/bible/rsvce/verseoftheday"><img src="http://biblia.com/api/plugins/verseoftheday/rsvce?width=300&height=250&singleImage=true&theme=imagebased&variant=dark" width="300" height="250" /></a>
 	</div>
 	<div class="index-left">
 	{% for post in site.posts %}
@@ -17,5 +17,3 @@ attrib: "@f1l11d31"
 	{% endfor %}
     </div>
 </div>
-<script src="//biblia.com/api/logos.biblia.js"></script>
-<script>logos.biblia.init();</script>

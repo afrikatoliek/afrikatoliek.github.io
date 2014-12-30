@@ -262,7 +262,7 @@ div.my-inline-right {
 .my-div-top {
   vertical-align: text-top;
   line-height: normal;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 .my-span-right {
