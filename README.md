@@ -28,8 +28,8 @@ Sublime Pakkette
 1. Package Control
 1. Character Table
 
-Thanks
-------
+Skakels
+=======
 
 1. http://joshualande.com/jekyll-github-pages-poole/
 1. http://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
@@ -59,4 +59,9 @@ Thanks
 1. http://biblia.com/plugins/VerseOfTheDay
 1. http://reftagger.com/
 1. http://jekyllrb.com/docs/usage/
+1. https://noembed.com/
+1. http://www.quora.com/What-are-the-best-alternatives-to-Embed-ly
+1. http://embed.ly/
+1. http://embed.ly/embed
+1. http://embed.ly/code
 
