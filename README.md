@@ -19,7 +19,14 @@ Algemene Instruksies
 1. git config user.name
 1. git config user.email
 1. git config --list
+1. git add -A
 1. git commit -m "Inskrywing"
+
+Sublime Pakkette
+================
+
+1. Package Control
+1. Character Table
 
 Thanks
 ------
@@ -48,6 +55,8 @@ Thanks
 1. https://dev.twitter.com/cards/types/photo
 1. http://stackoverflow.com/questions/8235687/open-graph-namespace-declaration-html-with-xmlns-or-head-prefix
 1. http://biblia.com/plugins/BibleVerse
+1. http://biblia.com/plugins
+1. http://biblia.com/plugins/VerseOfTheDay
 1. http://reftagger.com/
 1. http://jekyllrb.com/docs/usage/
 
