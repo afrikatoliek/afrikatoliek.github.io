@@ -14,6 +14,12 @@ Algemene Instruksies
 1. google-chrome http://localhost:4000
 1. ps aux | grep jekyll
 1. kill -9 1234 (waar 1234 die PID is wat deur bogenoemde instruksie vertoon word)
+1. git status
+1. git log
+1. git config user.name
+1. git config user.email
+1. git config --list
+1. git commit -m "Inskrywing"
 
 Thanks
 ------
