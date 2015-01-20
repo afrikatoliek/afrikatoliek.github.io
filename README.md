@@ -1,7 +1,19 @@
 f1l11d31.github.io
 ==================
 
-The landing page for f1l11d31 a.k.a Filii Dei.
+Hierdie is die woonplek van die bronkode van my webjoernaal.
+
+Algemene Instruksies
+====================
+
+1. Gebruik Sublime Text en installeer Package Control en Terminal 
+1. Maak hierdie hele folder oop in Sublime text.
+1. Druk Ctrl-Alt-Shift-T om die terminaal oop te maak op die regte plek.
+1. jekyll serve --watch
+1. xdg-open http://localhost:4000
+1. google-chrome http://localhost:4000
+1. ps aux | grep jekyll
+1. kill -9 1234 (waar 1234 die PID is wat deur bogenoemde instruksie vertoon word)
 
 Thanks
 ------
@@ -31,4 +43,5 @@ Thanks
 1. http://stackoverflow.com/questions/8235687/open-graph-namespace-declaration-html-with-xmlns-or-head-prefix
 1. http://biblia.com/plugins/BibleVerse
 1. http://reftagger.com/
+1. http://jekyllrb.com/docs/usage/
 
