@@ -1,13 +1,24 @@
 ---
+layout: post
 title: Drummer Boy
 permalink: drummer-boy
-tweet: Free .gpx files for beginner-level drummers.
+description: Free .gpx files for beginner-level drummers.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/ee/48/3f/ee483f6233fc6b0b9b27665f4574d80d.jpg
+headline: This is a headline.
+tags:
+  - konsep
+  - afrikaans
+modified: "2015-01-24 19:11:07 +0200"
+category: catholicism
+imagefeature: commons.wikimedia.org/cover01.jpg
+location: "Cape Town, South Africa"
+locationgps: null
+mathjax: false
+chart: false
+comments: false
+featured: false
+published: true
 ---
-
-<div class="my-inline-left pull-left">
-<a href="http://www.guitar-pro.com/en/index.php"><img width="388px" src="{{ page.thumb }}" /></a>
-</div>
 
 A friend of mine organized a concert for his music students. A drummer was required for some of the songs, and this is where I come in. As the date of the concert drew closer, I realized that I needed a more effective approach for practising the songs. So with the help of my friend (and Google), I set off to notate the drums using Guitar Pro.
 

@@ -1,14 +1,30 @@
 ---
+layout: post
 title: Om 'n vrou lief te hê
 permalink: om-n-vrou-lief-te-he
-tweet: Wil die Here he ek moet 'n vrou lief hê?
+description: Wil die Here he ek moet 'n vrou lief hê?
 thumb: http://media-cache-ec0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601a18687b7df7.jpg
-tags: konsep
+headline: This is a headline.
+tags:
+  - konsep
+  - english
+  - vocation
+  - marriage
+modified: "2015-01-24 19:11:07 +0200"
+category: catholicism
+imagefeature: commons.wikimedia.org/cover01.jpg
+location: "Cape Town, South Africa"
+locationgps: null
+mathjax: false
+chart: false
+comments: false
+featured: true
+published: true
 ---
 
-[EDIT: Since writing this post, I have been challenged to discern my vocation. I might review it at a later stage, but if I would marry, the principles remain the same. And I also want to rewrite it in my home language, Afrikaans.]
- 
 The aim of this note is to be a reminder for myself, and a clarification for those who seek to have a better understanding.
+
+> [EDIT: Since writing this post, I have been challenged to discern my vocation. I might review it at a later stage, but if I would marry, the principles remain the same. And I also want to rewrite it in my home language, Afrikaans.]
  
 I am looking to marry a Catholic woman. When I mention this to people, their responses seem to suggest that I just said something extremely racist or elitist. Many share their disapproval of such a "limited" view, and some seem to think that I somehow consider Catholics "better" than other human beings. Some of their objections are valid and practical, and I do hold onto these in the back of my mind. Other objections come from a lack of compassion and the inability to understand the "Catholic Heart" from the outside, and these I discard. Granted, my view will be limited and imperfect (how can it be otherwise), but I believe it is justifiable and prudent.
  

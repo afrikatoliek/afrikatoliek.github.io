@@ -1,37 +1,42 @@
 ---
+layout: post
 title: Imprisoned by Conspiracy Theories
 permalink: imprisoned-by-conspiracy-theories
-tweet: Have you forgotten the tactics of the deceiver?
+description: Have you forgotten the tactics of the deceiver?
 thumb: https://s-media-cache-ak0.pinimg.com/736x/f5/13/54/f513548260ec73c58e4ace4e8bdc2b59.jpg
+headline: This is a headline.
+tags:
+  - konsep
+  - english
+modified: "2015-01-24 19:11:07 +0200"
+category: catholicism
+imagefeature: commons.wikimedia.org/cover01.jpg
+location: "Cape Town, South Africa"
+locationgps: null
+mathjax: false
+chart: false
+comments: false
+featured: true
+published: true
 ---
 
-<div class="my-inline-left pull-left">
-<!-- Bible Verse. http://biblia.com/plugins/BibleVerse -->
-<biblia:bibleverse theme="quotation" resource="rsvce" width="512px" height="288px" reference="Mt5.14-15"><blockquote style="width:100%;">"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a></blockquote></biblia:bibleverse>
-</div>
+We must look for the **Spirit of Christ** in every idea that we encounter. Ask for the grace to recognize and hear Him, and get to know Him through Scripture, Prayer and the Sacraments. 
 
 _(Grant me the grace to hear your voice, O Lord.)_
 
-We must look for the **Spirit of Christ** in every idea that we encounter. Ask for the grace to recognize and hear Him, and get to know Him through Scripture, Prayer and the Sacraments. 
+> You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Mt5.14-15">Mt 5:14-15</a>
 
 Do you know the tactics of the deceiver? It is the devil's desire to fill the minds of the children of God with fabricated distortions, and then to keep them captivated by these illusions, wasting their energy, so that loving God with their whole heart, mind, soul and strength becomes impossible. No one believes these lies forever, since the light of God always dispells the **darkness of falsehood**.
 
 When a false idea crumbles, we are faced with two options: draw near to God and His Kingdom of Truth, or separate ourselves from Him and enter the **cocoon of our own personal belief** system. The devil has succeeded if we choose the latter.
 
-<!-- Bible Verse. http://biblia.com/plugins/BibleVerse -->
-<div class="my-inline-right pull-right">
-<biblia:bibleverse theme="quotation" resource="rsvce" width="500" showVotd="false" reference="Jn12.36"><blockquote style="width:500px;">While you have the light, believe in the light, that you may become sons of light." &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Jn12.36">Jn 12:36</a></blockquote></biblia:bibleverse>
-</div>
+> While you have the light, believe in the light, that you may become sons of light. &mdash; <a target="_blank" href = "http://biblia.com/bible/rsvce/Jn12.36">Jn 12:36</a>
+
 Come! Build your house on **solid ground** and not on the shifting sands of the desert. Seek the **Truth of God**, instead of wasting away inside the **illusions of men**. Discover the path that has existed since the time of Christ and that will continue forever. Trace the footsteps of those who have already made the journey and you will find that they have settled on this Rock.
 
 The Light of God is still with us. A **city set on a hill** for all to see &mdash; _so that all may see_ **and believe**.
 
 _(Grant me the grace to obey your voice, O Lord.)_
-
----
-
-Related Links
--------------
 
 ### Starred <span class="animated anim-repeater"><i class="fa fa-star-o fa-spin"></i></span>
 1. [Who Is the Beast of Revelation?](https://www.youtube.com/watch?v=4Naznbw0-6E) <i class="fa fa-youtube"></i> 
@@ -91,6 +96,3 @@ Related Links
 
 ### Other
 1. [Y U No Check Facts? (Meme)](https://www.facebook.com/CatholicGag/photos/a.384406138274626.81541.384404818274758/445960195452553/?type=1) <i class="fa fa-facebook"></i>
-
-<script src="//biblia.com/api/logos.biblia.js"></script>
-<script>logos.biblia.init();</script>

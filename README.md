@@ -1,7 +1,7 @@
 f1l11d31.github.io
 ==================
 
-Hierdie is die woonplek van die bronkode van my webjoernaal.
+Hierdie is die woonplek van die bronkode van my webjoernaal. Dit is grotendeels moontlik gemaak deur @hmfaysal. Sien sy [webjoernaal](http://hmfaysal.github.io).
 
 Algemene Instruksies
 ====================
@@ -21,6 +21,10 @@ Algemene Instruksies
 1. git config --list
 1. git add -A
 1. git commit -m "Inskrywing"
+1. convert cover01.jpeg -resize 200x200 -background white -gravity center -extent 1024x480 -flatten cover01_flatten.jpeg
+1. convert cover01_flatten.jpeg -level -90% cover01_contrast.jpeg
+1. convert cover01_flatten.jpeg -level 90% cover01_dark.jpg
+1. convert cover01_flatten.jpeg +level-colors grey, cover01_light.jpeg
 
 Sublime Pakkette
 ================
@@ -64,4 +68,5 @@ Skakels
 1. http://embed.ly/
 1. http://embed.ly/embed
 1. http://embed.ly/code
+1. http://www.imagemagick.org/Usage/color_mods/#negate
 

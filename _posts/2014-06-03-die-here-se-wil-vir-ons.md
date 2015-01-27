@@ -1,9 +1,25 @@
 ---
+layout: post
 title: Die Here se wil vir ons
 permalink: die-here-se-wil-vir-ons
-tweet: Wil jy weet wat die Here se wil is vir jou?
+description: Wil jy weet wat die Here se wil is vir jou?
 thumb: http://media-cache-ec0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601a18687b7df7.jpg
-tags: konsep
+headline: This is a headline.
+tags:
+  - konsep
+  - afrikaans
+  - vocation
+  - english
+modified: "2015-01-24 19:11:07 +0200"
+category: catholicism
+imagefeature: commons.wikimedia.org/cover01.jpg
+location: "Cape Town, South Africa"
+locationgps: null
+mathjax: false
+chart: false
+comments: false
+featured: false
+published: true
 ---
 
 Moet nooit ophou vra nie. Die Here wys sy wil vir jou in elke aspek van jou lewe, stap vir stap, soos 'n ouer met sy kind.

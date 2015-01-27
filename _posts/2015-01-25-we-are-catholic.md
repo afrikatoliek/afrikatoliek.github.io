@@ -1,9 +1,23 @@
 ---
+layout: post
 title: We are Catholic
 permalink: we-are-catholic
-tweet: Some thoughts about what being Catholic means to me.
+description: Some thoughts about what being Catholic means to me.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/51/4a/85/514a8535df63bc74bf86db06bda4a513.jpg
-tags: konsep
+headline: This is a headline.
+tags:
+  - konsep
+  - english
+modified: "2015-01-24 19:11:07 +0200"
+category: catholicism
+imagefeature: commons.wikimedia.org/cover01.jpg
+location: "Cape Town, South Africa"
+locationgps: null
+mathjax: false
+chart: false
+comments: false
+featured: false
+published: true
 ---
 
 This is what it means for me to be Catholic. It is a work in progress and may contain duplication.
