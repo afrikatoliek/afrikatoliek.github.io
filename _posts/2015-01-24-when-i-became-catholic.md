@@ -6,12 +6,12 @@ description: Some thoughts about my journey to Catholicism.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/51/4a/85/514a8535df63bc74bf86db06bda4a513.jpg
 headline: This is a headline.
 modified: "2015-01-24 19:11:07 +0200"
-category: catholicism
+category: katolisme
 tags: 
   - religion
   - english
   - conversion
-imagefeature: commons.wikimedia.org/cover01.jpg
+imagefeature: commons.wikimedia.org/cover01_web.png
 location: "Cape Town, South Africa"
 locationgps: null
 mathjax: false

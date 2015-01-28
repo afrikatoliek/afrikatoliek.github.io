@@ -11,8 +11,7 @@ tags:
   - vocation
   - english
 modified: "2015-01-24 19:11:07 +0200"
-category: catholicism
-imagefeature: commons.wikimedia.org/cover01.jpg
+category: katolisme
 location: "Cape Town, South Africa"
 locationgps: null
 mathjax: false

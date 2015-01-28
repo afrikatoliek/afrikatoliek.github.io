@@ -12,8 +12,8 @@ theme: blue
 animated_fins: true
 fin_color: "255,255,255"
 nprogress: true
-default_bg: commons.wikimedia.org/header01.jpg
-header_bg: commons.wikimedia.org/header01.jpg
+default_bg: commons.wikimedia.org/header01_web.png
+header_bg: commons.wikimedia.org/header01_web.png
 author_bg: pinterest.com/header01.jpeg
 highlight: 1843e5
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -52,13 +52,20 @@ links:
     external: false
     icon: home
   - title: <i class="fa fa-star"></i> Gunstelinge
-    url: /featured
+    url: /gunstelinge
   - title: Onderwerpe
-    url: /categories
+    url: /onderwerpe
   - title: Indeks
-    url: /tags
-  - title: Wie
-    url: /about
+    url: /indeks
+  - title: Oorsig
+    url: /oorsig
+
+# Skakels met name.
+benoemde_skakels:
+  gunstelinge: /gunstelinge
+  onderwerpe: /onderwerpe
+  indeks: /indeks
+  oorsig: /oorsig
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Africa/Johannesburg
