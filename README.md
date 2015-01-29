@@ -77,4 +77,7 @@ Skakels
 1. http://embed.ly/embed
 1. http://embed.ly/code
 1. http://www.imagemagick.org/Usage/color_mods/#negate
-
+1. https://github.com/google/grinder.dart/blob/master/tool/grind.dart
+1. https://github.com/dart-lang/chromedeveditor/blob/master/ide/tool/grind.dart
+1. https://github.com/google/stagehand/blob/master/tool/grind.dart
+1. http://www.dartdocs.org/documentation/grinder/0.6.5/index.html#grinder/grinder
