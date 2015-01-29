@@ -11,7 +11,7 @@ tags:
   - religion
   - english
   - conversion
-imagefeature: commons.wikimedia.org/cover01_web.png
+imagefeature: commons.wikimedia.org/cover01_gray_lq.jpg
 location: "Cape Town, South Africa"
 locationgps: null
 mathjax: false

@@ -26,6 +26,9 @@ Algemene Instruksies
 1. convert cover01_flatten.jpeg -level 90% cover01_dark.jpg
 1. convert cover01_flatten.jpeg +level-colors grey, cover01_light.jpeg
 1. convert cover01.jpeg -resize 50% cover01_small.png
+1. convert high_quality.png -quality 30 low_quality.jpg
+1. convert color.png -colorspace Gray gray.png
+1. convert dark.png -modulate 80 light.jpg
 
 Sublime Pakkette
 ================

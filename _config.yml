@@ -12,15 +12,15 @@ theme: blue
 animated_fins: true
 fin_color: "255,255,255"
 nprogress: true
-default_bg: commons.wikimedia.org/header01_web.png
-header_bg: commons.wikimedia.org/header01_web.png
+default_bg: commons.wikimedia.org/header01_gray_lq.jpg
+header_bg: commons.wikimedia.org/header01_gray_lq.jpg
 author_bg: pinterest.com/header01.jpeg
 highlight: 1843e5
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url: http://0.0.0.0:4000
-url: http://f1l11d31.github.io
+url: http://0.0.0.0:4000
+#url: http://f1l11d31.github.io
 
 # Owner/author information
 owner:
