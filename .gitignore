@@ -1,2 +1,6 @@
 *.db
 _site/
+.pub/
+packages/
+pubspec.lock
+tool/packages

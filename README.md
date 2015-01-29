@@ -29,6 +29,10 @@ Algemene Instruksies
 1. convert high_quality.png -quality 30 low_quality.jpg
 1. convert color.png -colorspace Gray gray.png
 1. convert dark.png -modulate 80 light.jpg
+1. pub get
+1. pub global activate grinder
+1. pub global run grinder
+1. pub global run grinder init
 
 Sublime Pakkette
 ================
