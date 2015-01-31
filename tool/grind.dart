@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'package:grinder/grinder.dart';
 
 void main([List<String> args]) {
@@ -12,8 +13,10 @@ void main([List<String> args]) {
   startGrinder(args);
 }
 
-images(GrinderContext context) {
-  context.log("image setup");
+/**
+ * Hierdie styl verander a prent van kleur na grys.
+ */
+prent01(GrinderContext context, srcPath, destPath) {
 
 // convert cover01.jpeg -resize 200x200 -background white -gravity center -extent 1024x480 -flatten cover01_flatten.jpeg
 // convert cover01_flatten.jpeg -level -90% cover01_contrast.jpeg
@@ -24,17 +27,38 @@ images(GrinderContext context) {
 // convert color.png -colorspace Gray gray.png
 // convert dark.png -modulate 80 light.jpg
 
-  // http://www.dartdocs.org/documentation/grinder/0.6.6+2/index.html#grinder/grinder
-  // http://www.dartdocs.org/documentation/grinder/0.6.6+2/index.html#grinder/grinder-tools
-  // http://www.dartdocs.org/documentation/grinder/0.6.6+2/index.html#grinder/grinder-files
+  // gebruik SublimeText om die volgende leers te besigtig:
+  // packages/grinder/grinder_files.dart
+  // packages/grinder/grinder_tools.dart
+  // packages/grinder/grinder.dart
 
-  const images = "images";
-  const input = "unsorted";
+  context.log("prent01");
+
+  // resize all images to 1024x768
+  var instructions = [
+  	//"$srcPath -resize 1024x768 -background black -gravity center -extent 1024x768 -flatten $destPath",
+  	"$srcPath -resize 1024x768 $destPath",
+  	"$destPath -colorspace Gray $destPath",
+  	"$destPath -quality 70 $destPath",
+  	//"$destPath -modulate 100 $destPath",
+  ];
+
+  // voer die 'convert' instruksie uit (benodig 'sudo apt-get install imagemagick')
+  for (var ins in instructions) {
+	  var args = ins.split(" ");
+	  runProcess(context, "convert", arguments: args);
+  }
+}
+
+images(GrinderContext context) {
   const wikimedia = "commons.wikimedia.org";
-  const output = "web";
+  const subtlepatterns = "subtlepatterns.com";
+  const src = "images/unsorted";
+  const dest = "images/web";
 
-  var args = "$input/$wikimedia/unsorted01.jpg -modulate 80 $output/$wikimedia/unsorted01.jpg".split(" ");
-  runProcess(context, "convert", arguments: args, workingDirectory: images);
+  // jpg verklein beter as png
+  prent01(context, "$src/$wikimedia/unsorted01.jpg", "$dest/$wikimedia/unsorted01.jpg");
+  prent01(context, "$src/$subtlepatterns/tree_bark.png", "$dest/$subtlepatterns/tree_bark.jpg");
 }
 
 init(GrinderContext context) {

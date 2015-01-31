@@ -7,10 +7,10 @@
 {% include navigation.html %}
  <div class="clearfix"></div>
         </div>
-        {% if site.author_bg %}<div class="notepad-author-head-content" style="background-image: url({{ site.url }}/images/headers/{{ site.author_bg }})">{% elsif site.header_bg %}<div class="notepad-author-head-content" style="background-image: url({{ site.url }}/images/headers/{{ site.header_bg }})">{% else %}<div class="notepad-author-head-content">{% endif %}
+        {% if site.author_bg %}<div class="notepad-author-head-content" style="background-image: url({{ site.url }}/images/{{ site.author_bg }})">{% elsif site.header_bg %}<div class="notepad-author-head-content" style="background-image: url({{ site.url }}/images/{{ site.header_bg }})">{% else %}<div class="notepad-author-head-content">{% endif %}
             <h1 class="notepad-blog-title">
                 <div class="notepad-author-page-avatar">
-                    <img src="{{ site.url }}/images/avatars/{{ site.owner.avatar }}" alt="{{ site.owner.name }}">
+                    <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }}">
                 </div>
                 <span class="notepad-site-head-title-bg">
                     {{ site.posts | size }} posts <a href="{{ site.url }}/feed.xml"><i class="fa fa-rss"></i></a>

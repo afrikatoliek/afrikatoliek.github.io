@@ -1,10 +1,10 @@
-        {% if site.author_bg %}<div class="notepad-author-info" style="background-image: url({{ site.url }}/images/headers/{{ site.author_bg }})">
-            <div class="bg-opacity"></div>{% elsif site.header_bg %}<div class="notepad-author-info" style="background-image: url({{ site.url }}/images/headers/{{ site.header_bg }})">
+        {% if site.author_bg %}<div class="notepad-author-info" style="background-image: url({{ site.url }}/images/{{ site.author_bg }})">
+            <div class="bg-opacity"></div>{% elsif site.header_bg %}<div class="notepad-author-info" style="background-image: url({{ site.url }}/images/{{ site.header_bg }})">
             <div class="bg-opacity"></div>{% else %}<div class="notepad-author-info">{% endif %}
             <div class="row">
                 <section class="notepad-post-author small-12 columns">
                     
-                        <img src="{{ site.url }}/images/avatars/{{ site.owner.avatar }}" class="notepad-post-author-avatar" alt="{{ site.owner.name }}">
+                        <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="notepad-post-author-avatar" alt="{{ site.owner.name }}">
                     
                     
                         <span class="author-label">Author</span>

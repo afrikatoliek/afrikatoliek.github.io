@@ -33,6 +33,7 @@ Algemene Instruksies
 1. pub global activate grinder
 1. pub global run grinder
 1. pub global run grinder init
+1. pub global run grinder images
 
 Sublime Pakkette
 ================
