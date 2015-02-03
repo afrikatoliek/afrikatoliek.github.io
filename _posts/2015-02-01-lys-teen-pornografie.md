@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ja Vir Kuisheid
-permalink: nee-vir-pornografie
+permalink: ja-vir-kuisheid
 description: Oor die skade van pornografie en die waarde van kuisheid.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/51/4a/85/514a8535df63bc74bf86db06bda4a513.jpg
 headline: This is a headline.
@@ -25,12 +25,32 @@ Kan enige Christen dink dat Jesus pornografie sou gebruik het of die gebruik daa
 
 ---
 
-> XXXchurch.com is a non-profit Christian website that aims to help those who struggle with pornography. --- [Wikipedia.org](http://en.wikipedia.org/wiki/XXXchurch.com)
+> [PornHarms.com](http://pornharms.com/responses-to-pro-porn-arguments/) >> Antwoorde teen Pro-Pornografie Argumente <a href="http://www.youtube.com/user/PornHarms/playlists"><i class="fa fa-youtube"></i></a> <a href="http://en.wikipedia.org/wiki/Morality_in_Media"><i class="fa fa-wordpress"></i></a> <a href="http://en.wikipedia.org/wiki/Morton_A._Hill"><i class="fa fa-user"></i></a>
 
 ---
 
-> Shelley Lubben is a former pornographic actress, who  became a born-again Christian and anti-pornography activist. She is also an ordained Chaplain with the Order of Saint Martin with a degree in Theological studies. --- [Wikipedia.org](http://en.wikipedia.org/wiki/Shelley_Lubben) 
+> [Chastity.com](http://www.chastity.com/questions) >> Vrae en Antwoorde oor Kuisheid
 
 ---
 
-> Responses to Frequently Asked Questions and Pro-Pornography Arguments --- [AntiPornography.org](http://www.antipornography.org/faq.html)
+> [MattFradd.com](http://mattfradd.com/category/pornography/) >> Skrywer van Pornografie Verwante Artikels
+
+---
+
+> [shelleylubben.com](https://www.shelleylubben.com/shelleys-articles) >> Shelley Lubben is 'n voormalige pornografiese aktrise, en nou 'n anti-pornografie aktivis. <a href="http://en.wikipedia.org/wiki/Shelley_Lubben"><i class="fa fa-wordpress"></i></a> <a href="http://www.youtube.com/user/slubben/videos"><i class="fa fa-youtube"></i></a>
+
+---
+
+> [AntiPornography.org](http://www.antipornography.org/faq.html) >> Antwoorde vir Gereelde Vrae en Pro-Pornografie Argumente <a href="http://www.youtube.com/user/AntiPornographyBlog/videos"><i class="fa fa-youtube"></i></a>
+
+---
+
+> [XXXchurch.com](http://xxxchurch.com) >> 'n Christelike webtuiste wat hulp aanbied vir diegene wat pornografie wil oorkom. <a href="http://en.wikipedia.org/wiki/XXXchurch.com"><i class="fa fa-wordpress"></i></a> <a href="http://www.youtube.com/user/triplexchurch/videos"><i class="fa fa-youtube"></i></a>
+
+---
+
+> [LifeSiteNews.com](https://www.lifesitenews.com/tags/tag/pornography) >> Nuusartikels oor Pornografie
+
+---
+
+1. [Delivered: True Stories of Men and Women who Turned from Porn to Purity](https://www.youtube.com/watch?v=jhoezUUFgi4)

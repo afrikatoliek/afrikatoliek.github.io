@@ -26,7 +26,7 @@ published: true
 {% endfor %}
 {% for status in site.data.statuses %}{% assign statuscount = statuscount | plus:1 %}{% endfor %}
 
-Hierdie webjoernaal dien as 'n blywende herhinnering van die Here se loop met my. Hiermee wil ek graag enigiets deel wat moontlik verrykend kan wees vir iemand anders se sielspaadjie, asook vir my toekomstige self. Ek skryf uit 'n **Rooms-Katolieke** oogpunt uit, meestal vir mede-Katolieke en ander Christene, tensy anders aangemeld.
+Hierdie webjoernaal dien as 'n blywende herhinnering van die Here se loop met my. Hiermee wil ek graag enigiets deel wat moontlik verrykend kan wees vir iemand anders se sielspaadjie, asook vir my toekomstige self. Ek skryf uit 'n **Rooms-Katolieke** oogpunt uit, meestal vir mede-Katolieke en ander Christene, tensy anders aangemeld. Ek benader kwessies vanuit 'n eenvoudige **geloofsperspektief**, met verwysings na meer geleerde skryfstukke.
 
 <!-- https://www.bible.com/en-GB/bible/6/rev.12.11.afr53 -->
 > Hulle het self die oorwinning oor hom behaal danksy die bloed van die Lam en die boodskap waarvan hulle getuig het; en hulle het nie hulle lewens so lief gehad dat hulle onwillig was om vir Hom te sterwe nie. &mdash; <a target="_blank" href = "http://biblehub.com/revelation/12-11.htm">Die Openbaring 12:11</a>

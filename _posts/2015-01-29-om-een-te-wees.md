@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jesus bid vir eenheid
-permalink: om-een-te-wees-1
-description: Om een te wees.
+title: Ja Vir Eenheid
+permalink: ja-vir-eenheid
+description: Jesus bid vir eenheid.
 thumb: https://s-media-cache-ak0.pinimg.com/736x/51/4a/85/514a8535df63bc74bf86db06bda4a513.jpg
 headline: This is a headline.
 category: katolisme
