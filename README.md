@@ -21,6 +21,7 @@ Algemene Instruksies
 1. git config --list
 1. git add -A
 1. git commit -m "Inskrywing"
+1. git reset --soft HEAD~1
 1. convert cover01.jpeg -resize 200x200 -background white -gravity center -extent 1024x480 -flatten cover01_flatten.jpeg
 1. convert cover01_flatten.jpeg -level -90% cover01_contrast.jpeg
 1. convert cover01_flatten.jpeg -level 90% cover01_dark.jpg

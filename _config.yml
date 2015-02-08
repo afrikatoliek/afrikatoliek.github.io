@@ -1,8 +1,8 @@
-title: Filii Dei
-description: "'n Akte van Geloof"
+title: Afrikatoliek
+description: "Afrikaans en Katoliek"
 locale: en_ZA
 logo: elements/logo.png
-disqus_shortname: f1l11d31
+disqus_shortname: afrikatoliek
 share: false
 search: true
 readtime: true
@@ -19,22 +19,22 @@ highlight: 1843e5
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url: http://0.0.0.0:4000
-#url: http://f1l11d31.github.io
+#url: http://0.0.0.0:4000
+url: http://afrikatoliek.github.io
 
 # Owner/author information
 owner:
-  name: f1l11d31
-  avatar: avatars/f1l11d31.jpeg
+  name: afrikatoliek
+  avatar: avatars/afrikatoliek.jpeg
   email: null
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description: "'n Akte van Liefde"
-  twitter: f1l11d31
-  facebook: pages/Filii-Dei/693453224096282
-  github: f1l11d31      
-  pinterest: f1l11d31
-  bitbucket: f1l11d31
-  flickr: 130249524@N02
+  twitter: afrikatoliek
+  facebook: pages/Afrikatoliek/693453224096282
+  github: afrikatoliek      
+  pinterest: afrikatoliek
+  bitbucket: afrikatoliek
+  #flickr: 130249524@N02
   instagram: null
   google_plus: 104576278582444149019
 
@@ -93,8 +93,8 @@ kramdown:
     coderay_css: class
 
 prose:
-  siteurl: 'http://f1l11d31.github.io/'
-  relativeLinks: 'http://f1l11d31.github.io/links.jsonp'
+  siteurl: 'http://afrikatoliek.github.io/'
+  relativeLinks: 'http://afrikatoliek.github.io/links.jsonp'
   media: 'images/post'
   metadata:
     _posts:
