@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Om 'n vrou lief te hê
+title: "Trouvrou #1"
 permalink: om-n-vrou-lief-te-he
 description: Wil die Here he ek moet 'n vrou lief hê?
 thumb: http://media-cache-ec0.pinimg.com/736x/1a/90/b2/1a90b23847b0f40d10601a18687b7df7.jpg
@@ -21,7 +21,7 @@ featured: true
 published: true
 ---
 
-The aim of this note is to be a reminder for myself, and a clarification for those who seek to have a better understanding.
+Hierdie inskrywing dien as 'n herhinnering oor my gedagtes oor 'n moontlike roeping om te trou. Ek oorweeg ook die godgewyde lewe (monnik).
 
 > [EDIT: Since writing this post, I have been challenged to discern my vocation. I might review it at a later stage, but if I would marry, the principles remain the same. And I also want to rewrite it in my home language, Afrikaans.]
  
